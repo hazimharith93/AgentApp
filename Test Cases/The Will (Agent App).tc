@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>The Will (Agent App)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50472eb8-2eaa-4779-b3d6-3fcc527b83d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bec0c86c-0736-4872-a080-2ad0af583175</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bec0c86c-0736-4872-a080-2ad0af583175</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
