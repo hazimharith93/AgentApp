@@ -22,10 +22,13 @@ response = WS.sendRequest(findTestObject('Request URL', [('URL') : GlobalVariabl
 def slurper = new groovy.json.JsonSlurper()
 
 def result = slurper.parseText(response.getResponseBodyContent())
+
 def value = result.authenticatedLink
+
 GlobalVariable.URL = value
 
-
-
 println(GlobalVariable.URL)
+
+'test'
+WebUI.click(findTestObject(null))
 
