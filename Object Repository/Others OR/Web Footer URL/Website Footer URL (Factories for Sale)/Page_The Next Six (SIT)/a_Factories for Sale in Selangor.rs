@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Factories for Sale in Selangor</name>
+   <tag></tag>
+   <elementGuidId>9ac58a99-77b5-455d-9b4c-38b52f39e17b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[6]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>450ac8b2-0518-4b61-8dd1-08c90a69a702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/selangor/factory-warehouse</value>
+      <webElementGuid>cd093e08-d1df-4326-bd85-b4bcccb3709c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>d8607f1a-3764-4e68-8561-23319d42f64c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Factories for Sale in Selangor</value>
+      <webElementGuid>379337a8-df62-45c8-a4a2-5c5d831db5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Factories-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[2]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>004138e6-fc73-4105-b6a3-2b6a089ee418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[6]/ul/li[2]/a</value>
+      <webElementGuid>42592c74-44d8-435a-bfb0-55309a9689e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Factories for Sale in Selangor')]</value>
+      <webElementGuid>fd3c7b13-4b42-4d3f-bda3-5deadf4398a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Sale in Malaysia'])[1]/following::a[1]</value>
+      <webElementGuid>70e1c8de-5e8d-4869-bc34-a571de11981e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Sale'])[1]/following::a[2]</value>
+      <webElementGuid>93fa7ef9-a91a-4e06-989a-f822635a39cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Sale in Kuala Lumpur'])[1]/preceding::a[1]</value>
+      <webElementGuid>77aae6e4-0c24-4e3e-be07-1e1be5992a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Sale in Johor'])[1]/preceding::a[2]</value>
+      <webElementGuid>fdd33e0e-5036-46ce-b773-e26161dd7713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Factories for Sale in Selangor']/parent::*</value>
+      <webElementGuid>246aadb1-442f-4a80-804c-c44d33b7227b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/selangor/factory-warehouse')]</value>
+      <webElementGuid>4ae51361-ddb4-4bbb-8905-74b945d2946e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[6]/ul/li[2]/a</value>
+      <webElementGuid>fb0164ab-ccb7-4d77-a403-e0e228c8fee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/selangor/factory-warehouse' and (text() = 'Factories for Sale in Selangor' or . = 'Factories for Sale in Selangor')]</value>
+      <webElementGuid>52009d63-c293-430e-88a7-565a2c15b1e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

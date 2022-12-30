@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Residential Properties for Sale in Malaysia</name>
+   <tag></tag>
+   <elementGuidId>b51b812f-777a-4151-b85f-118539d376fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.seo-footer-ul > li > a.seo-footer-a-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6884d647-a779-45a2-81b6-27ce49ec28c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/malaysia/residential</value>
+      <webElementGuid>4a7f3b42-bf7d-41fc-9799-cf42d8970767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>648148ff-d979-40f2-9703-5682bed2cf6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Residential Properties for Sale in Malaysia</value>
+      <webElementGuid>140ec819-a954-4919-8cb5-5e5b10adfa62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Residential-Properties-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[1]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>60c50516-1d60-4f1e-a6b3-255f63476fb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details/ul/li/a</value>
+      <webElementGuid>6b89dce0-8003-49bf-8f67-f9820e8b33ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Residential Properties for Sale in Malaysia')]</value>
+      <webElementGuid>301f608f-216e-4d01-81fb-14f63c1796f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Sale'])[1]/following::a[1]</value>
+      <webElementGuid>74cc3408-487c-45ab-bb71-47f990e3a92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Property Types for Sale'])[1]/following::a[1]</value>
+      <webElementGuid>3625acd6-7657-4d63-b971-ac38b8eafc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Sale in Selangor'])[1]/preceding::a[1]</value>
+      <webElementGuid>f0460648-2d5f-4b9e-ba5e-81183e665703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Sale in Kuala Lumpur'])[1]/preceding::a[2]</value>
+      <webElementGuid>3cede209-a9db-46bd-b1bf-75517272c058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Residential Properties for Sale in Malaysia']/parent::*</value>
+      <webElementGuid>247b3654-2503-4f15-bb99-6226fdadfa0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/malaysia/residential')]</value>
+      <webElementGuid>e177941d-07c2-44a9-bd4c-d7651f669cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details/ul/li/a</value>
+      <webElementGuid>7740c704-c142-4fe1-983a-213f6bec2fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/malaysia/residential' and (text() = 'Residential Properties for Sale in Malaysia' or . = 'Residential Properties for Sale in Malaysia')]</value>
+      <webElementGuid>f9f2748f-b42c-4c05-b766-3c863914729e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

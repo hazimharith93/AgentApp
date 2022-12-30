@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select Country</name>
+   <tag></tag>
+   <elementGuidId>cda2a0a6-80b2-4796-a6d2-f88743214af6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[14]/div[2]/div/span/button/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7259ac81-2080-42af-8f3e-7ec846a2a030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lblcancel</value>
+      <webElementGuid>d9ad702a-8d4d-4dd1-8c59-3a38db4ae4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Country*</value>
+      <webElementGuid>402a183b-c8b3-4d6e-aae3-a0b100a4463b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;the-will-background&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-sm-8 col-md-4 col-lg-4&quot;]/div[@class=&quot;btn-group&quot;]/span[@class=&quot;dd-drop-select&quot;]/button[@class=&quot;text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m&quot;]/label[@class=&quot;lblcancel&quot;]</value>
+      <webElementGuid>72b8ef41-78b7-47d5-a8c5-38eb4a120586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[14]/div[2]/div/span/button/label</value>
+      <webElementGuid>e0693f68-60bf-4190-beaf-5ee3670f10b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::label[1]</value>
+      <webElementGuid>2b6d2e85-b7fb-4e4c-b733-bc4f87696957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia'])[1]/preceding::label[1]</value>
+      <webElementGuid>44e20e54-8812-4f87-9e8e-8cd1a36447c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/preceding::label[1]</value>
+      <webElementGuid>ea083fc6-4386-4a2a-aa0f-3e27c6bc8032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Country*']/parent::*</value>
+      <webElementGuid>ead2c93d-75be-4094-96c1-5c4ea28cb67b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/span/button/label</value>
+      <webElementGuid>f5c2857b-83d4-466b-b67f-05ac6d307ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select Country*' or . = 'Select Country*')]</value>
+      <webElementGuid>ed56cf20-cc36-4a9b-9605-fb352fd5a581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

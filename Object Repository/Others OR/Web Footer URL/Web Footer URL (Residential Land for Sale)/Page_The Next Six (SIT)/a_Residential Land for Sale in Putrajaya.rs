@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Residential Land for Sale in Putrajaya</name>
+   <tag></tag>
+   <elementGuidId>00bd5ce4-3c6d-48b3-80e2-5cbd03ef4dec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[8]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1461215f-47d5-4b5c-856e-72b7bbc3f311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>55b6691b-2e19-48f9-ab72-5d4d9230212f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/putrajaya/residential-land</value>
+      <webElementGuid>8f9bd5b2-103d-48d0-b7f3-9d9a45a32971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Residential Land for Sale in Putrajaya</value>
+      <webElementGuid>c389767d-8e08-4ba1-b8ce-f5731f6c9e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Residential-Land-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[6]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>15550ca7-bb6a-42fd-b9ca-ac69e258be7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[8]/ul/li[6]/a</value>
+      <webElementGuid>65d35b77-b3a4-46f9-8d8e-27e04c25b620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Residential Land for Sale in Putrajaya')]</value>
+      <webElementGuid>c1a29928-a7c6-488b-a99f-6d71e764d38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Land for Sale in Penang'])[1]/following::a[1]</value>
+      <webElementGuid>57f540a1-bf96-4865-8140-0e659807d92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Land for Sale in Johor'])[1]/following::a[2]</value>
+      <webElementGuid>0af60f52-de26-49a2-8982-e15d9eb3fa34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Land for Sale in Melaka'])[1]/preceding::a[1]</value>
+      <webElementGuid>0310a1da-905a-4fca-aa03-e9aa06768f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Land for Sale in Negeri Sembilan'])[1]/preceding::a[2]</value>
+      <webElementGuid>7e58e480-cb79-4989-91b3-65b8b3ed27ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Residential Land for Sale in Putrajaya']/parent::*</value>
+      <webElementGuid>651ea1fc-9170-4aeb-a2e4-4400ed27ce04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/putrajaya/residential-land')]</value>
+      <webElementGuid>f79a35d3-59d9-4033-8e5f-ce233e038df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[8]/ul/li[6]/a</value>
+      <webElementGuid>95281334-8dfc-460c-82d3-cdcc407ba883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/putrajaya/residential-land' and (text() = 'Residential Land for Sale in Putrajaya' or . = 'Residential Land for Sale in Putrajaya')]</value>
+      <webElementGuid>1bba8418-94be-4dc6-b887-ea3d27131a60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

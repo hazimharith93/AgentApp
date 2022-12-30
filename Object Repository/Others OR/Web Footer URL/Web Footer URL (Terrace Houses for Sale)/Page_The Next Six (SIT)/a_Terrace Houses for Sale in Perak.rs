@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terrace Houses for Sale in Perak</name>
+   <tag></tag>
+   <elementGuidId>a03ad05a-0874-40b3-8453-079f53112489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li[13]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>10f0e79f-9a2b-4b5d-8acc-684f53ed2974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/perak/terrace-link-townhouse</value>
+      <webElementGuid>3a12ae4f-16f5-4699-9ea0-b9ec82fb931b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>ed5d3c75-f51b-4125-a473-875d5a4a928e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrace Houses for Sale in Perak</value>
+      <webElementGuid>e07960e0-7223-4bb4-bba2-3b8a9add8578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Terrace-Houses-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[13]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>78f0d78e-e26a-4c28-9d96-c6a0512e4fef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li[13]/a</value>
+      <webElementGuid>c617a36c-a018-4a65-9231-22eb94572c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terrace Houses for Sale in Perak')]</value>
+      <webElementGuid>c65f50c2-e1e2-4438-8bb2-89d3e2df7a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Pahang'])[1]/following::a[1]</value>
+      <webElementGuid>3928ea8f-b850-4423-9179-cff59e7aebd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Kelantan'])[1]/following::a[2]</value>
+      <webElementGuid>37d42621-00dd-4080-9fb6-a7b4d562c896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Perlis'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd0ef665-593b-4565-a5ab-cb51554d3c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Sabah'])[1]/preceding::a[2]</value>
+      <webElementGuid>a2abe558-a19b-4dd6-a521-b1a56815c585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrace Houses for Sale in Perak']/parent::*</value>
+      <webElementGuid>0798e2cc-0a45-4e59-a686-df7e2a3eebc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/perak/terrace-link-townhouse')]</value>
+      <webElementGuid>f2d4355b-2534-49b9-9cbf-bc513c22536f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/ul/li[13]/a</value>
+      <webElementGuid>fd150de8-602e-4bc5-a535-c6a7f977c22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/perak/terrace-link-townhouse' and (text() = 'Terrace Houses for Sale in Perak' or . = 'Terrace Houses for Sale in Perak')]</value>
+      <webElementGuid>8d7a5770-6faf-48ed-9e27-75ed218554c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

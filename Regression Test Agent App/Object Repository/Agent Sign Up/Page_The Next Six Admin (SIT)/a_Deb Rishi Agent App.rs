@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deb Rishi Agent App</name>
+   <tag></tag>
+   <elementGuidId>b13f4dde-4c0e-4906-af66-de9aa1e84095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'agentApp-nameBtn' and (text() = '${name}' or . = '${name}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.agentApp-nameBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d737b4b6-9968-432c-a885-fd2b378dd105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agentApp-nameBtn</value>
+      <webElementGuid>2f4d2c86-0ffb-463a-b54a-0f911e6204a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${name}</value>
+      <webElementGuid>b1c590f4-ee44-4ee5-9c4d-e647e752c26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;table-container__table table-container__table--break-md&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;agentApp-nameBtn&quot;]</value>
+      <webElementGuid>ded9991d-1eb9-46cb-926b-60b9628a8c93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>41fc4cc2-1780-4695-80b1-ddf74785b9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Deb Rishi Agent App')]</value>
+      <webElementGuid>21dcb999-4886-4be1-a98d-2b38e6c034c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed By'])[1]/following::a[1]</value>
+      <webElementGuid>ae7799ed-371c-491a-bb92-7f795da39b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed Date'])[2]/following::a[1]</value>
+      <webElementGuid>31b9ac33-5dfb-48c9-9264-0eb0c59cd0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wgerard381@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f8b99eb-671b-4df7-a524-2ed1dad2f903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kick Starter Pack (Free)'])[1]/preceding::a[1]</value>
+      <webElementGuid>d72b5fa0-653e-4e8c-a5ba-e22920cff88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deb Rishi Agent App']/parent::*</value>
+      <webElementGuid>d0e1bac9-15ca-498d-9a4b-9ca977382dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>feb63266-5e06-4f31-9f09-13a91773ecb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Deb Rishi Agent App' or . = 'Deb Rishi Agent App')]</value>
+      <webElementGuid>1b971e30-94cb-42da-b6a3-1e7e5b354adf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Commercial Properties for Sale in Perlis</name>
+   <tag></tag>
+   <elementGuidId>9e7bbfe9-3a19-4531-b740-86f3adc9b37c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[5]/ul/li[14]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd60db87-165c-43c7-b0e4-629fe4a05201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/perlis/commercial</value>
+      <webElementGuid>c3a6e541-7ef2-446b-afe7-e96114acfe0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>67ec45e6-be8e-42ca-8f2a-5cd08a71c1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Properties for Sale in Perlis</value>
+      <webElementGuid>679e3ae9-f602-4667-b38e-4f9a540a2000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Commercial-Properties-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[14]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>47b1e697-a962-4411-a464-387a989a85ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[5]/ul/li[14]/a</value>
+      <webElementGuid>85e9b42d-2f90-49db-a740-7afeb1780a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Commercial Properties for Sale in Perlis')]</value>
+      <webElementGuid>b58e3f43-e64b-48d8-bd1b-81edb2e0b4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Perak'])[1]/following::a[1]</value>
+      <webElementGuid>cfb7d3a4-f89c-4a2c-a84c-0069289ba096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Pahang'])[1]/following::a[2]</value>
+      <webElementGuid>acbf48d7-6f29-4857-a055-543a2b7dac89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Sabah'])[1]/preceding::a[1]</value>
+      <webElementGuid>3fac9f54-aa57-4a7c-9e44-c48a6db8e9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Terengganu'])[1]/preceding::a[2]</value>
+      <webElementGuid>19f526a8-ab91-49dd-8484-e57962b93f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commercial Properties for Sale in Perlis']/parent::*</value>
+      <webElementGuid>14f607b9-ccda-42c3-8392-dc22c166007c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/perlis/commercial')]</value>
+      <webElementGuid>b7029dc8-cecb-4a06-8bc9-9d6a706093b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[5]/ul/li[14]/a</value>
+      <webElementGuid>345b5994-d80f-471c-a6d0-8558d93e89b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/perlis/commercial' and (text() = 'Commercial Properties for Sale in Perlis' or . = 'Commercial Properties for Sale in Perlis')]</value>
+      <webElementGuid>4834060c-a612-472c-a960-fc4c828ed51b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

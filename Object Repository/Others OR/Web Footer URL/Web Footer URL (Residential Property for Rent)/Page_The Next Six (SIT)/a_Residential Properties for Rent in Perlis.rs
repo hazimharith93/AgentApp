@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Residential Properties for Rent in Perlis</name>
+   <tag></tag>
+   <elementGuidId>ad798617-dcd5-4fc6-a63b-304d2396ebba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details/ul/li[14]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4942bba-3e36-437e-b772-1183450a9c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>90231b98-af02-4f36-9d72-3a31b9210176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/perlis/residential</value>
+      <webElementGuid>edb73297-bcfa-42c9-aae9-dae1ef525c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Residential Properties for Rent in Perlis</value>
+      <webElementGuid>f9b90544-172b-4513-b9a6-2ea4dc46a587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Residential-Properties-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[14]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>6ab7e996-487f-497b-b0fb-33b2add562f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details/ul/li[14]/a</value>
+      <webElementGuid>41ae609c-b317-4977-af9c-680abcdb2f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Residential Properties for Rent in Perlis')]</value>
+      <webElementGuid>10a85b3f-58b1-49e1-ba71-3558649a68cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Perak'])[1]/following::a[1]</value>
+      <webElementGuid>201e8977-97a6-42d1-999e-692a200599bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Pahang'])[1]/following::a[2]</value>
+      <webElementGuid>bbd16e59-2921-406d-ac9c-ac8f336c73ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Sabah'])[1]/preceding::a[1]</value>
+      <webElementGuid>90d86c38-b318-41b7-992f-10a0ed0ce474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Terengganu'])[1]/preceding::a[2]</value>
+      <webElementGuid>ccc08571-2dc2-4b53-a31f-696b8964cca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Residential Properties for Rent in Perlis']/parent::*</value>
+      <webElementGuid>e28f747f-089c-4a28-a844-ac937221fc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/perlis/residential')]</value>
+      <webElementGuid>9be63725-da9e-4ccc-9d6a-9df187489f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/details/ul/li[14]/a</value>
+      <webElementGuid>ec8a8f31-ecee-4cac-a36f-ba44a12fc311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/perlis/residential' and (text() = 'Residential Properties for Rent in Perlis' or . = 'Residential Properties for Rent in Perlis')]</value>
+      <webElementGuid>8ce464dc-bc78-48ff-a59b-0cdc57051fd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

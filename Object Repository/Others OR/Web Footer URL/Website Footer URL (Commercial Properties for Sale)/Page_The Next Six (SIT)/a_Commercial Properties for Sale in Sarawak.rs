@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Commercial Properties for Sale in Sarawak</name>
+   <tag></tag>
+   <elementGuidId>6cabf81e-e75b-4387-93b2-58bdc9c47b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[5]/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1e82ca32-9706-4a60-8e28-d36f47e14715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/sarawak/commercial</value>
+      <webElementGuid>811ddce0-65a6-4bde-b917-f313b6402bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>e1f80407-d8b5-47cb-8680-8d03e060478a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Properties for Sale in Sarawak</value>
+      <webElementGuid>bfc6b25e-0908-4f1c-9f5e-412088d7251b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Commercial-Properties-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[9]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>8c7eb8eb-fe4f-4cf8-9379-bbbb27dbff0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[5]/ul/li[9]/a</value>
+      <webElementGuid>bc0b69d4-beae-4862-a8bc-00864d1d278f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Commercial Properties for Sale in Sarawak')]</value>
+      <webElementGuid>2b7243a0-8611-419e-b358-7fe64551fd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Negeri Sembilan'])[1]/following::a[1]</value>
+      <webElementGuid>23c1016e-bce9-4a5b-a0a5-9d1eea18ae41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Melaka'])[1]/following::a[2]</value>
+      <webElementGuid>551d3c3b-4fec-4677-a0e3-7704f5a0a122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Kedah'])[1]/preceding::a[1]</value>
+      <webElementGuid>ebd208e5-bdbe-4582-a19e-83dfa80c3069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Kelantan'])[1]/preceding::a[2]</value>
+      <webElementGuid>349fca9f-eb85-4c8e-88a2-da135dff4c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commercial Properties for Sale in Sarawak']/parent::*</value>
+      <webElementGuid>cde6f180-5b28-4065-aa6a-c4a85f731d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/sarawak/commercial')]</value>
+      <webElementGuid>b091d253-ae50-4ab3-81d5-f7509bdb4010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[5]/ul/li[9]/a</value>
+      <webElementGuid>7e6e420b-fcc9-435e-8ff5-c8d68e08b65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/sarawak/commercial' and (text() = 'Commercial Properties for Sale in Sarawak' or . = 'Commercial Properties for Sale in Sarawak')]</value>
+      <webElementGuid>51ffa29a-5dff-4485-81e3-12c9726b79ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

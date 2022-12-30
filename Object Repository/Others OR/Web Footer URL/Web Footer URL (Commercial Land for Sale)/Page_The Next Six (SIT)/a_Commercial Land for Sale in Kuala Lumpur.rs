@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Commercial Land for Sale in Kuala Lumpur</name>
+   <tag></tag>
+   <elementGuidId>912a1ae9-20f8-4ffa-a0bc-6c8dd6eabc19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[9]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75b9d667-5438-42a6-9149-6ad742bd0352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>0f285311-e903-468b-a82c-d75fbc3417b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/kuala-lumpur/commercial-land</value>
+      <webElementGuid>00cd197e-2074-486c-b7ac-8f54042efcd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Land for Sale in Kuala Lumpur</value>
+      <webElementGuid>a549d626-19ef-4695-af8f-617d6305823e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Commercial-Land-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[3]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>5d3d87cc-ab2b-4458-9832-45ec5ffcf8fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[9]/ul/li[3]/a</value>
+      <webElementGuid>c500b3e1-535a-4c17-b866-f8e7f7251fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Commercial Land for Sale in Kuala Lumpur')]</value>
+      <webElementGuid>7ce1950f-2585-4914-89bc-8e73a172fd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Land for Sale in Selangor'])[1]/following::a[1]</value>
+      <webElementGuid>154be1b1-6745-4c3d-b5c0-3d3cdd715da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Land for Sale in Malaysia'])[1]/following::a[2]</value>
+      <webElementGuid>e499abe0-36bf-4c84-8b54-53308b06ee42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Land for Sale in Johor'])[1]/preceding::a[1]</value>
+      <webElementGuid>737f6228-5f1a-42ef-933c-f0b0bb5a4c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Land for Sale in Penang'])[1]/preceding::a[2]</value>
+      <webElementGuid>917491fd-a666-478a-9511-d1999ae3157a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commercial Land for Sale in Kuala Lumpur']/parent::*</value>
+      <webElementGuid>8e696059-5ab3-408b-b73f-f49326e3ed1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/kuala-lumpur/commercial-land')]</value>
+      <webElementGuid>e67c7033-ec40-43dd-bc1b-59cbace2aa11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[9]/ul/li[3]/a</value>
+      <webElementGuid>9c811f00-6960-4a87-8ced-2409262ca094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/kuala-lumpur/commercial-land' and (text() = 'Commercial Land for Sale in Kuala Lumpur' or . = 'Commercial Land for Sale in Kuala Lumpur')]</value>
+      <webElementGuid>3124cbb9-30ca-4861-b374-672b12229349</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

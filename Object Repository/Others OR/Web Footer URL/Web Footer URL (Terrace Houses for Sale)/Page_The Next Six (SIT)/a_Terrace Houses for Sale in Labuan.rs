@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terrace Houses for Sale in Labuan</name>
+   <tag></tag>
+   <elementGuidId>e991d233-9ada-4cda-bba4-723c45caf661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li[17]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>452c6c0b-440e-4d15-ae7a-bf8215f5babe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/labuan/terrace-link-townhouse</value>
+      <webElementGuid>0193a89b-008a-4811-8add-828d36e3f563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>fe832284-6fc6-451c-9809-48e147912e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrace Houses for Sale in Labuan</value>
+      <webElementGuid>e7219feb-eb44-485e-907f-5b5f8fe6d4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Terrace-Houses-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[17]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>dadc9462-1294-4e94-9f8a-a5af499d86b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li[17]/a</value>
+      <webElementGuid>f6347f40-e5aa-40dd-b0f3-1d4749fe2dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terrace Houses for Sale in Labuan')]</value>
+      <webElementGuid>98161141-d8e3-4193-933a-2ec63412141a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Terengganu'])[1]/following::a[1]</value>
+      <webElementGuid>2e80f6a4-c9be-4c67-81a4-d1246dc91128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Sabah'])[1]/following::a[2]</value>
+      <webElementGuid>eabe8d45-6d65-498b-b83d-0c6c4da87a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale'])[1]/preceding::a[1]</value>
+      <webElementGuid>c3c0378b-700e-42fc-80e1-70f21a4f4ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Sale in Malaysia'])[1]/preceding::a[1]</value>
+      <webElementGuid>760d4397-90af-4041-8893-0421875ca77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrace Houses for Sale in Labuan']/parent::*</value>
+      <webElementGuid>0e4b2c13-1f65-4ca3-91b6-9f17eb4c10dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/labuan/terrace-link-townhouse')]</value>
+      <webElementGuid>526d4cb8-b6d8-40bd-b90b-a8253ca88138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/ul/li[17]/a</value>
+      <webElementGuid>88b7103d-66f7-4dea-a78c-59670f8d90e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/labuan/terrace-link-townhouse' and (text() = 'Terrace Houses for Sale in Labuan' or . = 'Terrace Houses for Sale in Labuan')]</value>
+      <webElementGuid>bacbbd73-e549-438f-8c7b-1b56b33f8516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

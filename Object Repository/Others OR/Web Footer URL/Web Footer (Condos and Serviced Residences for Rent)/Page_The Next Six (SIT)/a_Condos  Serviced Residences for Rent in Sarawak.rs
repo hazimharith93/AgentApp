@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Condos  Serviced Residences for Rent in Sarawak</name>
+   <tag></tag>
+   <elementGuidId>74fa8aca-990c-4363-acb7-f728110fb0df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[2]/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5fb935fc-bea4-442d-8e0d-376c4665ad6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>1434e6fd-ad26-4bb2-b4ec-7e2a6c3b546e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/sarawak/condo-serviced-residence</value>
+      <webElementGuid>60b5be42-2f52-4e6a-9031-2172fc44eef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condos &amp; Serviced Residences for Rent in Sarawak</value>
+      <webElementGuid>3870f3ec-db3b-43d5-b5e0-d497f8813514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Condos-Service-Residences-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[9]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>945f2d21-9725-43e9-b507-e584e56eadd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[2]/ul/li[9]/a</value>
+      <webElementGuid>f94ba67d-f3c7-4f5c-8615-12ddbf48d2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Condos &amp; Serviced Residences for Rent in Sarawak')]</value>
+      <webElementGuid>74e7b111-1067-4855-a699-24a396e4c454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Rent in Negeri Sembilan'])[1]/following::a[1]</value>
+      <webElementGuid>10c0350e-9963-4b0c-bcc6-8baea2bda232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Rent in Melaka'])[1]/following::a[2]</value>
+      <webElementGuid>2872992d-47ef-411f-99d8-71c47e210cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Rent in Kedah'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d2544fc-9e80-4d58-a68d-30230af74dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Rent in Kelantan'])[1]/preceding::a[2]</value>
+      <webElementGuid>aac75efe-a89a-4357-84ec-8a2eb2544c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Condos &amp; Serviced Residences for Rent in Sarawak']/parent::*</value>
+      <webElementGuid>94b0c63b-fccf-4901-b7f0-83bd1ed027d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/sarawak/condo-serviced-residence')]</value>
+      <webElementGuid>df484aea-315a-4917-be60-140c3696898e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/details[2]/ul/li[9]/a</value>
+      <webElementGuid>39da3ee3-aabb-4252-af22-d2b383430396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/sarawak/condo-serviced-residence' and (text() = 'Condos &amp; Serviced Residences for Rent in Sarawak' or . = 'Condos &amp; Serviced Residences for Rent in Sarawak')]</value>
+      <webElementGuid>1624760d-0289-4229-9829-ed3ce9ed4c2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

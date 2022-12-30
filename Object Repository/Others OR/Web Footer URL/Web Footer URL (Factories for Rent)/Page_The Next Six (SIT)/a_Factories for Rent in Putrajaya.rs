@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Factories for Rent in Putrajaya</name>
+   <tag></tag>
+   <elementGuidId>f5b72cac-4236-4f0a-a60f-dac3ed80b288</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[6]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba5a2971-ff6d-45f5-89c3-67a9d7a0b162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>6a3dc622-2141-48dc-8a4a-0e3861b83059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/putrajaya/factory-warehouse</value>
+      <webElementGuid>1f14a443-5c5f-4d64-a0f5-188e60faff6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Factories for Rent in Putrajaya</value>
+      <webElementGuid>35ea1086-a037-48a0-b2dc-2c4a73f68dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Factories-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[6]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>0bbdef64-3ad1-464e-8e01-1cf2e7f61056</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[6]/ul/li[6]/a</value>
+      <webElementGuid>791af905-ba49-4e12-9f35-bff7e8078712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Factories for Rent in Putrajaya')]</value>
+      <webElementGuid>56b75fc0-e8a1-4798-b0d7-c5bcf62e4490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Rent in Penang'])[1]/following::a[1]</value>
+      <webElementGuid>d1dd171d-f5c4-4a14-af83-2d2413907f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Rent in Johor'])[1]/following::a[2]</value>
+      <webElementGuid>e400cd4d-e633-4a3a-b4ec-3c710143ac0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Rent in Melaka'])[1]/preceding::a[1]</value>
+      <webElementGuid>9298f718-c3a7-4f1a-bc10-71221ba210c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factories for Rent in Negeri Sembilan'])[1]/preceding::a[2]</value>
+      <webElementGuid>ccab9a66-02fc-4a2b-a06a-1ee0212e312c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Factories for Rent in Putrajaya']/parent::*</value>
+      <webElementGuid>9de8b198-739a-4e25-870e-dc9cefbe5309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/putrajaya/factory-warehouse')]</value>
+      <webElementGuid>df571ddd-ac8d-41ae-8b3e-a9ab1e068f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[6]/ul/li[6]/a</value>
+      <webElementGuid>b638361b-c7b5-40f7-b6f4-26c20eafe64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/putrajaya/factory-warehouse' and (text() = 'Factories for Rent in Putrajaya' or . = 'Factories for Rent in Putrajaya')]</value>
+      <webElementGuid>2f4a395e-1009-4cbd-b8fa-537c2013c529</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

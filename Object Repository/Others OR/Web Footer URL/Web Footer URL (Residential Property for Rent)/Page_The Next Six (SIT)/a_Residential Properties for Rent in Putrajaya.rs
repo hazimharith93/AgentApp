@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Residential Properties for Rent in Putrajaya</name>
+   <tag></tag>
+   <elementGuidId>a78b40f2-146a-4d13-af01-c2ba0583c0cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75897d6c-0f5b-4c3d-bcbb-67f91f40691f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>4a3952ba-512c-47c8-b5ff-0236c38d6d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/putrajaya/residential</value>
+      <webElementGuid>28c7d9cf-c6d4-4440-9f59-a905f4c75480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Residential Properties for Rent in Putrajaya</value>
+      <webElementGuid>8338856f-dbfb-4ef5-bac3-613a6a785ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Residential-Properties-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[6]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>9a201579-a846-4200-aa50-9ba72eb1cead</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details/ul/li[6]/a</value>
+      <webElementGuid>012226f3-f09a-4bfa-a5f2-cf2c18f442c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Residential Properties for Rent in Putrajaya')]</value>
+      <webElementGuid>93fac7da-27e3-4d27-8e5f-96a2200f1019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Penang'])[1]/following::a[1]</value>
+      <webElementGuid>e6e0b7d2-a2b5-495c-9a97-5e4a932d2858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Johor'])[1]/following::a[2]</value>
+      <webElementGuid>656963a3-7fed-4993-9910-8587eb12545d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Melaka'])[1]/preceding::a[1]</value>
+      <webElementGuid>74fc0a1b-2924-43f9-8574-b6a35666dfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Rent in Negeri Sembilan'])[1]/preceding::a[2]</value>
+      <webElementGuid>f41a72dd-bf05-4d15-930f-75584b7d9c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Residential Properties for Rent in Putrajaya']/parent::*</value>
+      <webElementGuid>30d83c4b-d2a6-4752-9762-7c2320b0ac09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/putrajaya/residential')]</value>
+      <webElementGuid>32e0835b-e0bc-482a-82b8-2c6e4f2fdc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/details/ul/li[6]/a</value>
+      <webElementGuid>002ac0ea-6b99-4af1-9722-62798dd4d172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/putrajaya/residential' and (text() = 'Residential Properties for Rent in Putrajaya' or . = 'Residential Properties for Rent in Putrajaya')]</value>
+      <webElementGuid>1bb13ad4-2eda-4761-b60f-af1a0fe3d557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

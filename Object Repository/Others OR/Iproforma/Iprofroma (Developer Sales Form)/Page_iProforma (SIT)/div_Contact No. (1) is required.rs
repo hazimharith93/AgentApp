@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact No. (1) is required</name>
+   <tag></tag>
+   <elementGuidId>a9a95532-23b0-45d4-90fd-b103a8b68928</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.notification-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>50856008-4752-47e7-adc9-1ef0107c25a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-message</value>
+      <webElementGuid>ca97a913-0fb2-48ab-87bb-d44e71256c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact No. (1) is required</value>
+      <webElementGuid>86d35fac-7584-43d3-9a77-4351f689bc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;cr-page admin-wrapper&quot;]/div[@class=&quot;notifications-wrapper&quot;]/div[@class=&quot;notifications-tr&quot;]/div[@class=&quot;notification notification-error notification-visible&quot;]/div[@class=&quot;notification-message&quot;]</value>
+      <webElementGuid>df0778e2-bda7-4b8a-bd9c-a8266760d47c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/div/div</value>
+      <webElementGuid>3a185aa7-c327-44a8-8b63-c3252755a81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::div[4]</value>
+      <webElementGuid>15a44a17-1b95-4688-b462-c11ed206edb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact No. (1) is required']/parent::*</value>
+      <webElementGuid>b7cb002c-c491-4133-b965-9b2ba7a86a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div</value>
+      <webElementGuid>0b3a42c0-86a3-4dcd-aed9-efa4e1ea3f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact No. (1) is required' or . = 'Contact No. (1) is required')]</value>
+      <webElementGuid>b02b1e13-7365-4480-b5c0-3905ac306d64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

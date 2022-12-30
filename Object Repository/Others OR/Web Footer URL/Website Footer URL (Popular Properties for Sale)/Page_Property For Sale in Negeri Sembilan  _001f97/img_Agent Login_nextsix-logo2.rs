@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Agent Login_nextsix-logo2</name>
+   <tag></tag>
+   <elementGuidId>919f5832-319a-4616-8ae2-d9bfa0e4ba1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header']/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.nextsix-logo2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fda0e6c4-6216-4d93-901c-1276dcc66263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nextsix-logo2</value>
+      <webElementGuid>de15c55a-f7d0-408f-8a26-9b79ded91ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/logoNextSixBlack.0ca13b8b.svg</value>
+      <webElementGuid>b873c1a3-de45-4527-a2a3-dff52ddfcdaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Nextsix Logo</value>
+      <webElementGuid>d1209801-2e50-4819-abbf-05656243b989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-content2 container&quot;]/div[@class=&quot;header-left2&quot;]/a[1]/img[@class=&quot;nextsix-logo2&quot;]</value>
+      <webElementGuid>04297711-b030-4acb-b5a8-f3448ededdab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header']/div/div/a/img</value>
+      <webElementGuid>81a30ceb-afe1-44b6-b47f-4e81fea292c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Nextsix Logo']</value>
+      <webElementGuid>78b9790d-1967-4450-b41f-61ab73a69915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>35dd6086-e284-4ea8-a711-a623caf76492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/logoNextSixBlack.0ca13b8b.svg' and @alt = 'Nextsix Logo']</value>
+      <webElementGuid>2f97d1c0-d6c0-4341-82e1-f47f1e3a157d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

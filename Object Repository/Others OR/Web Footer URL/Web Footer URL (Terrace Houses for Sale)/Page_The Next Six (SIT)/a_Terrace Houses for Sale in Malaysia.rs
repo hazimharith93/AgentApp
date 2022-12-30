@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terrace Houses for Sale in Malaysia</name>
+   <tag></tag>
+   <elementGuidId>5317eac4-e803-4989-a2cb-9a426db2f472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>details.Terrace-Houses-for-Sale > ul.seo-footer-ul > li > a.seo-footer-a-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88ede9fa-aa29-4c19-960b-c2b97b0282d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/malaysia/terrace-link-townhouse</value>
+      <webElementGuid>02322bf6-69b2-47e2-a04f-1b778c27ca0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>baca4fd3-d6dd-468b-a498-19cecf2f5120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrace Houses for Sale in Malaysia</value>
+      <webElementGuid>b21e277b-5e33-4b16-bb2f-bd089551aa58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Terrace-Houses-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[1]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>d3e3425d-09e3-4d23-ade3-d591778e577d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[4]/ul/li/a</value>
+      <webElementGuid>2ba70ac2-8c0e-44eb-9bee-3cc86eae9a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terrace Houses for Sale in Malaysia')]</value>
+      <webElementGuid>b506081d-273a-46ac-a5d1-9494d682a172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale'])[1]/following::a[1]</value>
+      <webElementGuid>e7610156-917b-46e6-90ad-6db9ca32378a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Sale in Labuan'])[1]/following::a[1]</value>
+      <webElementGuid>ab092719-914f-4d3d-949a-e9522c907b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Selangor'])[1]/preceding::a[1]</value>
+      <webElementGuid>f4aefa99-c66f-45ab-9f22-ea08022a0833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Sale in Kuala Lumpur'])[1]/preceding::a[2]</value>
+      <webElementGuid>29988718-7e70-4958-927e-06160bd60d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrace Houses for Sale in Malaysia']/parent::*</value>
+      <webElementGuid>25297671-1d06-491b-bd3d-e8ef9af535fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/malaysia/terrace-link-townhouse')]</value>
+      <webElementGuid>e334937e-2ed3-4549-9691-87d76c28be82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/ul/li/a</value>
+      <webElementGuid>f7b1eacf-2d2a-4711-a0f3-1b3581edc024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/malaysia/terrace-link-townhouse' and (text() = 'Terrace Houses for Sale in Malaysia' or . = 'Terrace Houses for Sale in Malaysia')]</value>
+      <webElementGuid>dcebd65b-5253-4b51-be7c-8b31532dd188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

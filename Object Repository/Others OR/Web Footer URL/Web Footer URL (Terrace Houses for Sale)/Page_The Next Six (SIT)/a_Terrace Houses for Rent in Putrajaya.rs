@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terrace Houses for Rent in Putrajaya</name>
+   <tag></tag>
+   <elementGuidId>35dd4eca-e282-4669-b599-f95d4bef3d90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[4]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3fe7958-5bfc-472c-ac8c-5aab64f56955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>bb6da234-6083-404e-a4b6-98eb96e6cdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/putrajaya/terrace-link-townhouse</value>
+      <webElementGuid>ffba9421-768a-4d3b-891a-5ac6e298422d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrace Houses for Rent in Putrajaya</value>
+      <webElementGuid>0b614f64-9ca2-4241-84d4-f1ed2e6c6c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Terrace-Houses-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[6]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>b329c4e0-41e2-4283-8d54-16571cf0b54a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[4]/ul/li[6]/a</value>
+      <webElementGuid>b4fc8b78-83e5-480a-89ba-6a87ae7d1f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terrace Houses for Rent in Putrajaya')]</value>
+      <webElementGuid>8fd1d53f-dbf9-4460-a72d-f0724ffa9f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Penang'])[1]/following::a[1]</value>
+      <webElementGuid>9db329b1-d860-41b7-a5d1-0b7d5c22943a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Johor'])[1]/following::a[2]</value>
+      <webElementGuid>7508f936-a739-45d5-bbd4-5113e4a1a39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Melaka'])[1]/preceding::a[1]</value>
+      <webElementGuid>2c9b675b-71f7-4839-890d-be83bdec6b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Negeri Sembilan'])[1]/preceding::a[2]</value>
+      <webElementGuid>4d80718c-2a87-4b95-beed-67e62e4d4b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrace Houses for Rent in Putrajaya']/parent::*</value>
+      <webElementGuid>f8fb47c1-26e4-4f9f-b229-c138b8c73452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/putrajaya/terrace-link-townhouse')]</value>
+      <webElementGuid>5c940ff6-9850-40ad-9d6d-370956143797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/ul/li[6]/a</value>
+      <webElementGuid>98c5d436-9853-4715-acc9-528ab7694c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/putrajaya/terrace-link-townhouse' and (text() = 'Terrace Houses for Rent in Putrajaya' or . = 'Terrace Houses for Rent in Putrajaya')]</value>
+      <webElementGuid>c705fc40-57d9-4001-bf24-eda2de729b31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

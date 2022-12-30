@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Other</name>
+   <tag></tag>
+   <elementGuidId>4c577a15-58c7-49b4-ae69-3c345831499d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Pivot11-Tab1 > span.ms-Button-flexContainer.flexContainer-180 > div.KCqY7.K_Q7X > div.G4ZU0.K_Q7X > span.ms-Pivot-linkContent.Q8sEA.linkContent-176 > span.ms-Pivot-text.p7lCz.K_Q7X.text-177</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='Pivot11-Tab1']/span/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>147f6b56-f9b9-416b-a8c5-986ef9953169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Pivot-text p7lCz K_Q7X text-177</value>
+      <webElementGuid>4c9116c4-4e42-465e-a16c-6b8557ab0b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Other</value>
+      <webElementGuid>aa1728b2-5655-4d47-8800-02f4222fe217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Pivot11-Tab1&quot;)/span[@class=&quot;ms-Button-flexContainer flexContainer-180&quot;]/div[@class=&quot;KCqY7 K_Q7X&quot;]/div[@class=&quot;G4ZU0 K_Q7X&quot;]/span[@class=&quot;ms-Pivot-linkContent Q8sEA linkContent-176&quot;]/span[@class=&quot;ms-Pivot-text p7lCz K_Q7X text-177&quot;]</value>
+      <webElementGuid>96cdf99e-d343-44c5-93c1-f0c1289f40f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='Pivot11-Tab1']/span/div/div/span/span</value>
+      <webElementGuid>1262e9fb-29ba-4df1-8cc5-a0a99397f2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade to Microsoft 365 with premium Outlook features'])[1]/following::span[6]</value>
+      <webElementGuid>efb01ad0-b4f6-448d-8c16-a85c6b1c56ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlook Team'])[1]/preceding::span[2]</value>
+      <webElementGuid>7c951b72-d496-4af0-8f1e-9e0e6a9ed34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Other']/parent::*</value>
+      <webElementGuid>82915815-052f-4c02-bc9f-9271fb55504f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/div/div/span/span</value>
+      <webElementGuid>579c5ff0-8a4f-413f-8ebd-040321cc6e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Other' or . = ' Other')]</value>
+      <webElementGuid>cfe1cd29-5846-4695-9819-945c85c67982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Copyright  2020-2022. The Next Six Sdn_555e03_1</name>
+   <tag></tag>
+   <elementGuidId>70f12909-2c29-4b8f-8a02-aab475eb4f38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[9]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.footer-copyright-text2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dae991e9-4b1f-42db-9e3a-c4e7d863e4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-copyright-text2</value>
+      <webElementGuid>97b8fdb2-a430-4db9-8262-9b09e2230224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.</value>
+      <webElementGuid>930ec490-322c-499f-9163-039ca3d23c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;footer-copyright2&quot;]/span[@class=&quot;footer-copyright-text2&quot;]</value>
+      <webElementGuid>7bc898af-789d-405a-868d-4abaa10c7e7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[9]/span</value>
+      <webElementGuid>72caee3a-b41a-45b4-bfcb-554555331aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lucky Draw'])[1]/following::span[1]</value>
+      <webElementGuid>873e008b-6503-4c1b-82b8-367dce1bee7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::span[1]</value>
+      <webElementGuid>64d46b73-76e3-4ce5-aecc-ea58630c7379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright © 2020-']/parent::*</value>
+      <webElementGuid>9ff8cb65-8ec0-4776-8121-d05c403f0ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span</value>
+      <webElementGuid>74124c56-dcda-426d-b87f-7dc2e5b21cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.' or . = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.')]</value>
+      <webElementGuid>90b85666-6515-4a78-b143-58442234db06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

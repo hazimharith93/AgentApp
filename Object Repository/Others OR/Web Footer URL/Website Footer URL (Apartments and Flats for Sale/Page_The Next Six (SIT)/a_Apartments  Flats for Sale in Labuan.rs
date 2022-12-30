@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apartments  Flats for Sale in Labuan</name>
+   <tag></tag>
+   <elementGuidId>d2cafc2c-bbc6-4b44-8584-1fb7e7433870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[3]/ul/li[17]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9437f6d-8b50-4154-a154-9ff81ba4907d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/labuan/apartment-flat</value>
+      <webElementGuid>c2ceda7b-f753-4287-834c-745f3f965bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>cd48f1bd-550a-4538-9383-b3337404a768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apartments &amp; Flats for Sale in Labuan</value>
+      <webElementGuid>5134bf22-daa5-4c9d-9395-9f5eccda7047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Apartments-Flats-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[17]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>9afd8b69-fd95-48bc-99a5-c7018f4b8889</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[3]/ul/li[17]/a</value>
+      <webElementGuid>1493ea9b-35a0-446c-a8dc-5b96162e78e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apartments &amp; Flats for Sale in Labuan')]</value>
+      <webElementGuid>fb8542fe-9ee4-4726-a5d5-09380f6275dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Sale in Terengganu'])[1]/following::a[1]</value>
+      <webElementGuid>eaa90883-6da4-4d40-833d-29f2f3687ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Sale in Sabah'])[1]/following::a[2]</value>
+      <webElementGuid>5d30603f-a879-4a27-8988-69fd61b20c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[3]/preceding::a[1]</value>
+      <webElementGuid>e6b59ecb-7c19-4ec2-bc14-ee2a20b2caba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Property Types for Rent'])[1]/preceding::a[1]</value>
+      <webElementGuid>badf0c1f-cfbf-4a83-a2f0-b2e0333c15c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apartments &amp; Flats for Sale in Labuan']/parent::*</value>
+      <webElementGuid>b5798d28-479a-4cf4-b803-330fdd315ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/labuan/apartment-flat')]</value>
+      <webElementGuid>6c7e7abe-345f-4c32-ab19-131001a125a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[3]/ul/li[17]/a</value>
+      <webElementGuid>dfbb02a3-4ee8-4d0e-8613-e4bf79aa06c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/labuan/apartment-flat' and (text() = 'Apartments &amp; Flats for Sale in Labuan' or . = 'Apartments &amp; Flats for Sale in Labuan')]</value>
+      <webElementGuid>45dd3a34-7f71-47a8-afe8-8ac3e708f089</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

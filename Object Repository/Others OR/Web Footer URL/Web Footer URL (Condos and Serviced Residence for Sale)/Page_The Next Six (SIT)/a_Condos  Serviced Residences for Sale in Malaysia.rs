@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Condos  Serviced Residences for Sale in Malaysia</name>
+   <tag></tag>
+   <elementGuidId>381d79ae-fb44-4c3b-8088-215bfc66aa7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>details.Condos-Service-Residences-for-Sale > ul.seo-footer-ul > li > a.seo-footer-a-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d654f802-90e2-4483-aec3-65b81a94e252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/malaysia/condo-serviced-residence</value>
+      <webElementGuid>d1929874-b338-4ac0-9796-8d31339257a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>83b88033-5cb3-4228-94f1-09993e1e6fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condos &amp; Serviced Residences for Sale in Malaysia</value>
+      <webElementGuid>8944caee-0d30-4772-8023-368ba50ae298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Condos-Service-Residences-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[1]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>6307e6e2-c637-4174-be5a-c9afe5583133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[2]/ul/li/a</value>
+      <webElementGuid>d09a21f0-aa55-4839-8621-e4c886a7cafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Condos &amp; Serviced Residences for Sale in Malaysia')]</value>
+      <webElementGuid>22f3ac77-5537-45f5-aeda-b211678832cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale'])[1]/following::a[1]</value>
+      <webElementGuid>fc4cf058-0281-4012-8d26-faf5cf2f022f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Properties for Sale in Labuan'])[1]/following::a[1]</value>
+      <webElementGuid>a41bb285-cf12-4382-b426-c0c10587b7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Selangor'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3a30124-710a-42a3-8743-623e14529c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Kuala Lumpur'])[1]/preceding::a[2]</value>
+      <webElementGuid>92033e82-e4c8-4937-92d4-943358054db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Condos &amp; Serviced Residences for Sale in Malaysia']/parent::*</value>
+      <webElementGuid>6dd57cc5-834c-41d2-b533-5b612857fd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/malaysia/condo-serviced-residence')]</value>
+      <webElementGuid>4849c423-bd84-43c1-9d1f-a6156ea03b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[2]/ul/li/a</value>
+      <webElementGuid>16e6bd81-4c96-4cb4-9a58-ba5f85446a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/malaysia/condo-serviced-residence' and (text() = 'Condos &amp; Serviced Residences for Sale in Malaysia' or . = 'Condos &amp; Serviced Residences for Sale in Malaysia')]</value>
+      <webElementGuid>aa0d4c1b-ad9f-481a-bd1a-d6f941f08893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

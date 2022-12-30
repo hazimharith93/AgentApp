@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Condos  Serviced Residences for Sale in Perlis</name>
+   <tag></tag>
+   <elementGuidId>5d4fbd03-5365-453d-b26f-dcf1c65e2467</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[2]/ul/li[14]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>82382210-0cdc-4f02-846c-8bd411559333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/perlis/condo-serviced-residence</value>
+      <webElementGuid>8417897f-680d-4576-98a2-599216135097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>ae8f97ba-ddc3-49f3-9269-ef2b0b386572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condos &amp; Serviced Residences for Sale in Perlis</value>
+      <webElementGuid>d738f452-2d3e-4864-8494-b64863a6590a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Condos-Service-Residences-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[14]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>f99de4d9-2a1f-4570-98cd-a5d6f95dd969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[2]/ul/li[14]/a</value>
+      <webElementGuid>36f7af26-7d78-407b-8a2e-235e6ba17de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Condos &amp; Serviced Residences for Sale in Perlis')]</value>
+      <webElementGuid>b385c25f-0077-4068-8346-09e7fd46228e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Perak'])[1]/following::a[1]</value>
+      <webElementGuid>9f334494-a14c-4608-a2bf-cea086c01d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Pahang'])[1]/following::a[2]</value>
+      <webElementGuid>8cedc3b3-54f5-47db-b9a9-a4f20776be4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Sabah'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fb0b07e-0959-4595-b573-da33340116a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condos &amp; Serviced Residences for Sale in Terengganu'])[1]/preceding::a[2]</value>
+      <webElementGuid>80348866-d612-4155-92ee-d373f53769b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Condos &amp; Serviced Residences for Sale in Perlis']/parent::*</value>
+      <webElementGuid>9c7d2a17-be63-4e40-8e58-acc1f38f0608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/perlis/condo-serviced-residence')]</value>
+      <webElementGuid>5c65b3bd-b39f-4eda-ab77-9097502f6286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[2]/ul/li[14]/a</value>
+      <webElementGuid>55a0879f-bd9b-4cce-99e4-b7e8839722a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/perlis/condo-serviced-residence' and (text() = 'Condos &amp; Serviced Residences for Sale in Perlis' or . = 'Condos &amp; Serviced Residences for Sale in Perlis')]</value>
+      <webElementGuid>c1e336f2-5000-4c3c-82f1-2e65bcec921e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

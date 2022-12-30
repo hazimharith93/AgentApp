@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terrace Houses for Rent in Malaysia</name>
+   <tag></tag>
+   <elementGuidId>2ceef6ac-e121-4fb2-b17c-e8f96ecf2176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>details.Terrace-Houses-for-Rent > ul.seo-footer-ul > li > a.seo-footer-a-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>531f0515-4767-44c4-8864-6c50491c1b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>958df768-52cd-46a0-87a6-8798a1c7702f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/malaysia/terrace-link-townhouse</value>
+      <webElementGuid>98b1c45b-c200-48c4-a639-536b29446105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terrace Houses for Rent in Malaysia</value>
+      <webElementGuid>601ca869-d346-4e9b-844a-f88b0714c26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Terrace-Houses-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[1]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>f48e710a-e96a-41e2-b8d0-fab5c649bb0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[4]/ul/li/a</value>
+      <webElementGuid>abe8da8d-e3f5-4e9e-8325-98b7dcafabfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terrace Houses for Rent in Malaysia')]</value>
+      <webElementGuid>b9187695-c263-4a8e-bcbe-c27bba753a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent'])[1]/following::a[1]</value>
+      <webElementGuid>b387c4c2-8fea-43d9-a78a-14183a03f8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Rent in Labuan'])[1]/following::a[1]</value>
+      <webElementGuid>db0c0881-aa34-4e2f-889c-ce10f4746673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Selangor'])[1]/preceding::a[1]</value>
+      <webElementGuid>52144858-0255-42ac-9e4f-92e72426cb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrace Houses for Rent in Kuala Lumpur'])[1]/preceding::a[2]</value>
+      <webElementGuid>ac3b8e0c-0366-4fc4-a030-7b2d8b58d56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terrace Houses for Rent in Malaysia']/parent::*</value>
+      <webElementGuid>91aa7c88-98d3-49e0-9584-236a64f3e4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/malaysia/terrace-link-townhouse')]</value>
+      <webElementGuid>447e33c9-e0f9-4493-b14b-3860f88228b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[4]/ul/li/a</value>
+      <webElementGuid>c3208266-822c-4e23-a714-3906af8936fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/malaysia/terrace-link-townhouse' and (text() = 'Terrace Houses for Rent in Malaysia' or . = 'Terrace Houses for Rent in Malaysia')]</value>
+      <webElementGuid>81dfd28c-7279-408d-b060-500828a88582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apartments  Flats for Rent in Terengganu</name>
+   <tag></tag>
+   <elementGuidId>4b878cf7-e883-4c4d-8400-1731101ee08d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[3]/ul/li[16]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77e332c4-b664-42dc-939a-59a9a8ea9fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>aeee1382-af78-4644-9967-002c8e0aef2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/terengganu/apartment-flat</value>
+      <webElementGuid>d5cc23ad-4ef2-4c14-a961-50525d016878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apartments &amp; Flats for Rent in Terengganu</value>
+      <webElementGuid>66ae9c7b-0f2c-4c85-928c-9a52d57c4820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Apartments-Flats-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[16]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>3bd1e6b7-0ba8-4bd0-a385-a26b504f4a0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[3]/ul/li[16]/a</value>
+      <webElementGuid>60686349-e167-425d-8053-3978917eb982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apartments &amp; Flats for Rent in Terengganu')]</value>
+      <webElementGuid>fbfe3ffb-534c-4263-a152-af4f014036d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Rent in Sabah'])[1]/following::a[1]</value>
+      <webElementGuid>c735d56d-89e5-480a-a15a-93ec40610770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Rent in Perlis'])[1]/following::a[2]</value>
+      <webElementGuid>c5ec6f00-34f9-446e-86ad-213fcd318d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartments &amp; Flats for Rent in Labuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>931585d9-d683-40cd-b657-56a52626914b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[4]/preceding::a[2]</value>
+      <webElementGuid>9cad1a26-59e5-4db9-813b-d6c8338dca46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apartments &amp; Flats for Rent in Terengganu']/parent::*</value>
+      <webElementGuid>aa0884ee-b0e0-484d-b523-a47c242acebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/terengganu/apartment-flat')]</value>
+      <webElementGuid>1e917092-6427-45eb-912e-a856df5c2c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/details[3]/ul/li[16]/a</value>
+      <webElementGuid>1ed940da-8b63-49d6-b423-a0f7329a7843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/terengganu/apartment-flat' and (text() = 'Apartments &amp; Flats for Rent in Terengganu' or . = 'Apartments &amp; Flats for Rent in Terengganu')]</value>
+      <webElementGuid>eb721676-919a-408d-9327-a5138cdb987e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Copyright  2020-2022. The Next Six Sdn_555e03</name>
+   <tag></tag>
+   <elementGuidId>071d22df-3c64-4405-a2f7-be01487e4eef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[9]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.footer-copyright-text2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;footer-copyright2&quot;]/span[@class=&quot;footer-copyright-text2&quot;][count(. | //span[@class = 'footer-copyright-text2' and (text() = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.' or . = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.')]) = count(//span[@class = 'footer-copyright-text2' and (text() = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.' or . = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4308a7ec-9a77-4f81-9833-7fb74800af81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-copyright-text2</value>
+      <webElementGuid>37959ec4-d1c0-42ba-9d45-0cb3fa49c704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.</value>
+      <webElementGuid>0210049e-4ff1-486c-a855-d788923ccf05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;footer-copyright2&quot;]/span[@class=&quot;footer-copyright-text2&quot;]</value>
+      <webElementGuid>5c3d21d7-2189-41f7-9b01-688ea57eb7d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[9]/span</value>
+      <webElementGuid>d2d3e24c-9008-44ea-adc0-d6edd539211c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lucky Draw'])[1]/following::span[1]</value>
+      <webElementGuid>f6abd649-3258-4f92-ad41-5f36cd77d00b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::span[1]</value>
+      <webElementGuid>50efa59e-52ba-4fbe-8ea6-b904ed30a95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright © 2020-']/parent::*</value>
+      <webElementGuid>2e0ad349-87dc-4c8e-b436-e37ef7979b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span</value>
+      <webElementGuid>47912df3-bde4-461f-ba06-f964fa03d47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.' or . = 'Copyright © 2020-2022. The Next Six Sdn. Bhd. All rights reserved.')]</value>
+      <webElementGuid>2724d2d9-a734-4d5d-ad8d-e1ffb17ad86a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

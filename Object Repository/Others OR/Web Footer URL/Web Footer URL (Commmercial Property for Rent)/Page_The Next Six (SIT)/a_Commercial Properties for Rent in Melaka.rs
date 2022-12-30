@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Commercial Properties for Rent in Melaka</name>
+   <tag></tag>
+   <elementGuidId>dab2ac61-e02e-40ed-a11a-a48b5c509591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[5]/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc6f6309-abbb-496a-a495-eecdbd04ed2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>ebf1cf70-dfdf-4c37-b49d-2463e1953b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/melaka/commercial</value>
+      <webElementGuid>81ff743c-6f56-44e5-88f2-b0ab68fc185a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Properties for Rent in Melaka</value>
+      <webElementGuid>a7fb658c-5e6e-4561-ab68-cf83b73c943f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Commercial-Properties-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[7]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>31dd68a8-577f-4118-a0ef-f351013a3159</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[5]/ul/li[7]/a</value>
+      <webElementGuid>f4863e7c-066a-4501-9b67-8953034ea2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Commercial Properties for Rent in Melaka')]</value>
+      <webElementGuid>389a57dd-fe1f-444a-bc0e-647724002390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Rent in Putrajaya'])[1]/following::a[1]</value>
+      <webElementGuid>4a8daf22-e3e7-43dd-81c1-9408519c5e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Rent in Penang'])[1]/following::a[2]</value>
+      <webElementGuid>41a6c8ab-00d0-432d-bba6-5d461464f1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Rent in Negeri Sembilan'])[1]/preceding::a[1]</value>
+      <webElementGuid>cff6b0c2-c201-4e44-b0a6-d2b93ef50ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial Properties for Rent in Sarawak'])[1]/preceding::a[2]</value>
+      <webElementGuid>2a291c3d-6f16-41b7-99e1-1d96f09ccfcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commercial Properties for Rent in Melaka']/parent::*</value>
+      <webElementGuid>ff81308f-fc67-4a59-bb2e-672dfc8443dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/melaka/commercial')]</value>
+      <webElementGuid>81761231-4b25-4e1e-b4bd-2e179086a775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[5]/ul/li[7]/a</value>
+      <webElementGuid>df2544df-6411-4a76-851d-91f04914f15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/melaka/commercial' and (text() = 'Commercial Properties for Rent in Melaka' or . = 'Commercial Properties for Rent in Melaka')]</value>
+      <webElementGuid>71fc8d5c-0019-4453-9a6f-3c4581f1718f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

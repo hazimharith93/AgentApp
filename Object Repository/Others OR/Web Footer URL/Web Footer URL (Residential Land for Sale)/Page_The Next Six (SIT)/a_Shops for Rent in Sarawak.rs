@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shops for Rent in Sarawak</name>
+   <tag></tag>
+   <elementGuidId>48fd62e1-db48-40de-8ce1-fdb8f7a3ba06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[7]/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>810db23a-f59a-4ae2-bb9c-6ef7c6f4a475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>dd805a49-f9d6-40d6-be71-4ef0c3a4482c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-rent/sarawak/shop-office-retail-space</value>
+      <webElementGuid>c09b882c-0aab-4107-bd43-789e9ee50efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shops for Rent in Sarawak</value>
+      <webElementGuid>b49e7f1c-c843-4058-bbcc-319270f34e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Shops-for-Rent&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[9]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>b25e21ac-ee17-450e-8726-8eebf4eeda98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[4]/div[2]/details[7]/ul/li[9]/a</value>
+      <webElementGuid>d050320d-a837-4aaa-864c-eab70495e7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shops for Rent in Sarawak')]</value>
+      <webElementGuid>6e835e1f-c8dd-4ed4-a9d5-210a3971e08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Rent in Negeri Sembilan'])[1]/following::a[1]</value>
+      <webElementGuid>1f3c79ea-6cd6-4d47-80e4-c14274b7845d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Rent in Melaka'])[1]/following::a[2]</value>
+      <webElementGuid>961c2760-be3a-4e78-b604-1d90504cb3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Rent in Kedah'])[1]/preceding::a[1]</value>
+      <webElementGuid>a86e2ac6-1bf1-4119-8c09-884661620a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Rent in Kelantan'])[1]/preceding::a[2]</value>
+      <webElementGuid>341161db-24d4-471e-ba8f-8a2326d82961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shops for Rent in Sarawak']/parent::*</value>
+      <webElementGuid>482d86e1-b28d-4abb-88e9-9deba0dc5058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-rent/sarawak/shop-office-retail-space')]</value>
+      <webElementGuid>9576d438-2c4a-4206-8c80-d1dd3cd4c891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[7]/ul/li[9]/a</value>
+      <webElementGuid>c25ea326-9fac-41b8-add3-61402526e362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-rent/sarawak/shop-office-retail-space' and (text() = 'Shops for Rent in Sarawak' or . = 'Shops for Rent in Sarawak')]</value>
+      <webElementGuid>30567697-fd54-48dc-b8b4-cc7a5a904656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select Nationality</name>
+   <tag></tag>
+   <elementGuidId>081596d8-afe3-48e1-a61e-cf33def39aba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/span/button/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.lblcancel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7fb67d91-f218-4c2e-b54e-add71a3f1024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lblcancel</value>
+      <webElementGuid>341364b6-20f6-46e7-b09d-357bc4b36280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Nationality*</value>
+      <webElementGuid>65654bb9-d7e2-4464-be62-f86d820ce099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;the-will-background&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-6 col-md-4 col-lg-4&quot;]/div[@class=&quot;btn-group&quot;]/span[@class=&quot;dd-drop-select&quot;]/button[@class=&quot;text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m&quot;]/label[@class=&quot;lblcancel&quot;]</value>
+      <webElementGuid>1d674fec-e976-40e1-a8b5-fe3c5eea6537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/span/button/label</value>
+      <webElementGuid>bfaf9e9a-2713-434e-9b4a-5db9286f0d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::label[1]</value>
+      <webElementGuid>a2db639b-e97b-4517-bc3d-681c62849065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysian'])[1]/preceding::label[1]</value>
+      <webElementGuid>0b0038e2-0094-4d3b-929f-99f527104193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghan'])[1]/preceding::label[1]</value>
+      <webElementGuid>0e85bafb-7269-49ce-b1c2-48b995912d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Nationality*']/parent::*</value>
+      <webElementGuid>ce6dc46c-d88d-4af2-a742-9a2717da0981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>dd99d295-4a18-4300-a0e3-39e7848b7260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select Nationality*' or . = 'Select Nationality*')]</value>
+      <webElementGuid>fa5fe23f-1ed7-4642-b730-3afa40910002</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

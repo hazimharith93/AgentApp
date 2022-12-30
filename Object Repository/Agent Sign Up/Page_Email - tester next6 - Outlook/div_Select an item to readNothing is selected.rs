@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select an item to readNothing is selected</name>
+   <tag></tag>
+   <elementGuidId>971dd338-13b8-45a2-9e5f-31b1d98b38a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReadingPaneContainerId']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w1MGJ.FmjZk.OowpG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6a2cf0e-acc3-4ae5-8ffa-eaec9e7c2580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w1MGJ FmjZk OowpG</value>
+      <webElementGuid>8a348a13-a5cd-4af2-9c89-db71af8f6272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select an item to readNothing is selected</value>
+      <webElementGuid>8ba6580f-d1b7-48af-9d7d-50f8496b37d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReadingPaneContainerId&quot;)/div[1]/div[@class=&quot;g_zET&quot;]/div[@class=&quot;w1MGJ FmjZk OowpG&quot;]</value>
+      <webElementGuid>5d554eca-6b19-4f70-8f63-739af9b54f71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReadingPaneContainerId']/div/div/div</value>
+      <webElementGuid>cd78131a-cc4f-4637-af74-8871c90b6e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade to Microsoft 365'])[1]/following::div[8]</value>
+      <webElementGuid>cecde715-cec7-45d8-b785-2f14daa0078b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Outlook mobile'])[1]/following::div[12]</value>
+      <webElementGuid>3050a7c8-00c0-4d0d-b09b-97b613a00f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div/div</value>
+      <webElementGuid>c8bb7f40-5870-49bb-8ed4-07a615c76168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select an item to readNothing is selected' or . = 'Select an item to readNothing is selected')]</value>
+      <webElementGuid>6da24e86-e65e-44b2-b02d-f895e646909b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

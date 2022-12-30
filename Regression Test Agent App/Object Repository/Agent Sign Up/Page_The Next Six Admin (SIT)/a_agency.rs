@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_agency</name>
+   <tag></tag>
+   <elementGuidId>18814595-f402-4094-83e9-d05380983e62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0e22a481-5167-42fc-9ce7-9bd5e14d810a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cr-sidebar__nav-item-collapse nav-link</value>
+      <webElementGuid>bcd952ca-34b3-4258-8e10-414eb8a98fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>agency</value>
+      <webElementGuid>c2bd6551-6c38-49a6-9257-9ab6826ba8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/aside[@class=&quot;cr-sidebar cr-sidebar--open&quot;]/div[@class=&quot;cr-sidebar__content&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;cr-sidebar__nav-item nav-item&quot;]/a[@class=&quot;cr-sidebar__nav-item-collapse nav-link&quot;]</value>
+      <webElementGuid>a4b010d0-d802-495e-83d5-5120a5df20ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a</value>
+      <webElementGuid>9765ea72-1834-47e3-b3cf-e0b7bec95a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Master'])[1]/following::a[1]</value>
+      <webElementGuid>e5166a31-0c50-412c-8ea0-e77570fb8350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[1]/following::a[2]</value>
+      <webElementGuid>a890b4c5-1211-401a-84f2-a110627aee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='agents'])[1]/preceding::a[1]</value>
+      <webElementGuid>bc43bbd7-83b5-4387-a53c-82d440bf4d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>c9934edb-bcf3-4c22-bbcf-97bd2e494a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'agency' or . = 'agency')]</value>
+      <webElementGuid>a173911c-240c-41ae-82ad-e2e048d69d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

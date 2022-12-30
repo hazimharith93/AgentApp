@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_testernext6outlook.com</name>
+   <tag></tag>
+   <elementGuidId>a9828a73-0f88-454b-93a5-76bf0cbc33bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>43dc7ab8-02c3-4187-b8d8-71845e73c118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testernext6@outlook.com</value>
+      <webElementGuid>5fc496e0-995b-4af0-bfec-3b15378601c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReadingPaneContainerId&quot;)/div[1]/div[@class=&quot;g_zET&quot;]/div[@class=&quot;MtujV&quot;]/div[@class=&quot;L72vd&quot;]/div[@class=&quot;Q8TCC yyYQP customScrollBar&quot;]/div[2]/div[@class=&quot;aVla3&quot;]/div[1]/div[1]/div[@class=&quot;wide-content-host&quot;]/div[@class=&quot;SlLx9 byzS1&quot;]/div[@class=&quot;XbIp4 jmmB7 GNqVo yxtKT allowTextSelection&quot;]/div[1]/div[@class=&quot;rps_a3e1&quot;]/div[1]/b[1]</value>
+      <webElementGuid>cff6fc06-2b47-4d31-af53-044870a42c3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div/div/b</value>
+      <webElementGuid>949704aa-e858-4181-8822-affe2de8abb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nextsix'])[33]/following::b[1]</value>
+      <webElementGuid>af766289-2784-464c-badd-8524d4059c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nextsix'])[32]/following::b[1]</value>
+      <webElementGuid>87bb47b2-ec07-462f-9824-8b16a336c830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit this link to create your password'])[1]/preceding::b[1]</value>
+      <webElementGuid>e4dc8f31-aa1c-4fba-951c-6408a3c78d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This link is only valid for the next 24 hours'])[1]/preceding::b[2]</value>
+      <webElementGuid>b43a13bb-7f6a-4f8b-878a-3482091e4fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='testernext6@outlook.com']/parent::*</value>
+      <webElementGuid>ab7364ea-351a-4160-ab38-a478d738fe4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>6a57c219-e808-440f-aed2-985e30c6c99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'testernext6@outlook.com' or . = 'testernext6@outlook.com')]</value>
+      <webElementGuid>b3ac957d-e716-4cc2-8fa0-40f5d31b7751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

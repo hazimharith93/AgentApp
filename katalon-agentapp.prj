@@ -6,6 +6,7 @@
    <UUID>6315b5fe-cf3b-4a22-8285-b5f4dd8476e0</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Nextsix\git\katalon-agentapp\katalon-agentapp.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

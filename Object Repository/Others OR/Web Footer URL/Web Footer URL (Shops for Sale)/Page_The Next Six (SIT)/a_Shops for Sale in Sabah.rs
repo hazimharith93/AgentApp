@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shops for Sale in Sabah</name>
+   <tag></tag>
+   <elementGuidId>7ff11ae5-238b-49d4-9c22-8d3bcb8fada7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[7]/ul/li[15]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8172152-4ec4-41c2-a2eb-3fd1ef04303a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>9b6174ff-649c-4253-a560-b9bb693837ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/sabah/shop-office-retail-space</value>
+      <webElementGuid>24cd3b78-9262-4247-9b33-46813507ab96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shops for Sale in Sabah</value>
+      <webElementGuid>afc2f181-967b-422b-9e43-3abfea9bea48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Shops-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[15]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>97360f5a-2497-4e53-80a7-0ca06c71f7e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[7]/ul/li[15]/a</value>
+      <webElementGuid>2b1f75c4-26ee-48e3-b358-2577bf26f2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shops for Sale in Sabah')]</value>
+      <webElementGuid>2a31f34e-056c-4d60-97fc-5e67fd463ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Perlis'])[1]/following::a[1]</value>
+      <webElementGuid>2cad82ff-6192-4279-8bd7-4035ade5a167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Perak'])[1]/following::a[2]</value>
+      <webElementGuid>75843e47-8fc7-4cfe-a04b-25101625bf9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Terengganu'])[1]/preceding::a[1]</value>
+      <webElementGuid>057c28e3-27c0-457c-aa06-72b33a5e827e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Labuan'])[1]/preceding::a[2]</value>
+      <webElementGuid>ae23375a-a1d7-4f86-9e76-cf33b7e97e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shops for Sale in Sabah']/parent::*</value>
+      <webElementGuid>6cdbf9e9-7dc5-458e-ac29-982f153cae93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/sabah/shop-office-retail-space')]</value>
+      <webElementGuid>37ffd537-4cc6-4fe6-8993-8d927a1609d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[7]/ul/li[15]/a</value>
+      <webElementGuid>39b2e32e-5f76-4423-a2f0-d18f178e408c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/sabah/shop-office-retail-space' and (text() = 'Shops for Sale in Sabah' or . = 'Shops for Sale in Sabah')]</value>
+      <webElementGuid>627e7f5d-59dd-491a-a80f-44a10a0626c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

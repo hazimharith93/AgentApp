@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_agency</name>
+   <tag></tag>
+   <elementGuidId>0cdc6be8-7cac-4b7e-bd8c-b46831cb7834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00da6ca0-abc8-4321-913c-85a7cd885219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>agency</value>
+      <webElementGuid>8edbddc9-a064-4f61-86b1-4f1f865ad74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/aside[@class=&quot;cr-sidebar cr-sidebar--open&quot;]/div[@class=&quot;cr-sidebar__content&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;cr-sidebar__nav-item nav-item&quot;]/a[@class=&quot;cr-sidebar__nav-item-collapse nav-link&quot;]/div[@class=&quot;d-flex&quot;]/span[1]</value>
+      <webElementGuid>b80fa8ae-7af4-4542-98b1-89ad4ff3d721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a/div/span</value>
+      <webElementGuid>4be35960-1df0-4fe0-97e0-e139a01c6c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Master'])[1]/following::span[1]</value>
+      <webElementGuid>21a878d2-3c9a-47e1-bb35-dd7ea81d95d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[1]/following::span[3]</value>
+      <webElementGuid>cda1db69-6317-44c0-b197-42408cfc867a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='agents'])[1]/preceding::span[2]</value>
+      <webElementGuid>619a7ac2-7178-41c1-bfc2-0ae97a7b7e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='agent application'])[1]/preceding::span[4]</value>
+      <webElementGuid>e37fb8b0-c511-4b85-9731-b0efd84bd59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='agency']/parent::*</value>
+      <webElementGuid>70716909-6970-470d-bb0b-3a6543f450c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div/span</value>
+      <webElementGuid>4807d51d-ec4c-4baa-b2e2-8be57895bee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'agency' or . = 'agency')]</value>
+      <webElementGuid>c7504126-12e8-4fbc-a25e-24052586cf07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

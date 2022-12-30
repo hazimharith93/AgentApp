@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select Marital Status</name>
+   <tag></tag>
+   <elementGuidId>49d09ce7-cf00-4ce8-af24-d516a7abda53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[199]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-8.col-sm-6.col-md-4.col-lg-4 > div.btn-group > span.dd-drop-select > button.text-capitalize-dropdown-toggle-pvpage.m-1.dropdown-toggle.btn.btn-transparent.btn-m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f8104f2e-6b58-43d5-9b72-d13827bf89e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9b8f549-87fb-4e5f-ad67-7d28cdfad4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b9096ac1-5d7a-4c16-bfdc-316a9155198f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d1c8443f-9f7f-4bea-a0b0-4a801370ccb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m</value>
+      <webElementGuid>f954e37f-60ea-4da0-b843-cdea2d39c092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Marital Status*</value>
+      <webElementGuid>81a7984b-bae1-4388-9c71-5c18b0a734ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;the-will-background&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-sm-6 col-md-4 col-lg-4&quot;]/div[@class=&quot;btn-group&quot;]/span[@class=&quot;dd-drop-select&quot;]/button[@class=&quot;text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m&quot;]</value>
+      <webElementGuid>114f19e0-5670-49e1-85b8-86061fabdd22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[199]</value>
+      <webElementGuid>354a3f75-da47-4512-ab95-d77614350290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[5]/div[2]/div/span/button</value>
+      <webElementGuid>f6840ba9-a63b-43b7-8a62-19e1a3906d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::button[1]</value>
+      <webElementGuid>4a8fa15f-0eab-447b-a73b-d5513cef192a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single'])[1]/preceding::button[1]</value>
+      <webElementGuid>297656c7-8947-4b39-8004-6dd30b04b717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/span/button</value>
+      <webElementGuid>4bec81c2-cc7e-4ea2-87d5-1d992d80cda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select Marital Status*' or . = 'Select Marital Status*')]</value>
+      <webElementGuid>7e3902ef-e7be-43bc-b588-c42a8e96cc3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

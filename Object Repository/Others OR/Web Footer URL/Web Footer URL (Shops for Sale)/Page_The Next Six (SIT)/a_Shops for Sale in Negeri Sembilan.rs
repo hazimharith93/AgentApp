@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shops for Sale in Negeri Sembilan</name>
+   <tag></tag>
+   <elementGuidId>3d3c0d3c-164a-41ee-b53b-856e9977c326</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[7]/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ae5e0c8-cf20-4b0e-9cb3-1d06a500e898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-footer-a-tag</value>
+      <webElementGuid>0a30c036-65b0-4cd5-90ef-f4c1131b05e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.nextsix.com/properties-for-sale/negeri-sembilan/shop-office-retail-space</value>
+      <webElementGuid>1b851f7f-a00c-44c4-958f-1238bd69ce26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shops for Sale in Negeri Sembilan</value>
+      <webElementGuid>a7eac761-6ec6-4a09-9e15-44e44594fe30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;seo-footer&quot;]/div[4]/div[@class=&quot;seo-footer-row row&quot;]/div[@class=&quot;seo-footer-col col-12 col-md-6 col-lg-3&quot;]/div[@class=&quot;seo-footer-description&quot;]/details[@class=&quot;Shops-for-Sale&quot;]/ul[@class=&quot;seo-footer-ul&quot;]/li[8]/a[@class=&quot;seo-footer-a-tag&quot;]</value>
+      <webElementGuid>844dce53-0a27-478f-8b81-65f278c1837d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[4]/div/div[3]/div[2]/details[7]/ul/li[8]/a</value>
+      <webElementGuid>ade36045-7612-4d6c-a7a7-edd68171d8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shops for Sale in Negeri Sembilan')]</value>
+      <webElementGuid>3f3357bd-a8bb-4e95-8654-af7a80b97fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Melaka'])[1]/following::a[1]</value>
+      <webElementGuid>9edc52d1-c480-402f-8f22-58840f01af33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Putrajaya'])[1]/following::a[2]</value>
+      <webElementGuid>9dce1534-85f7-40ff-b711-2dbc2253116d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Sarawak'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bc145de-3257-4472-9339-4a5fcde04533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shops for Sale in Kedah'])[1]/preceding::a[2]</value>
+      <webElementGuid>41ea249b-8d15-42a2-a108-710c07ed4c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shops for Sale in Negeri Sembilan']/parent::*</value>
+      <webElementGuid>e9eb9c6b-cf8e-47aa-88e7-b4b4cc12d689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.nextsix.com/properties-for-sale/negeri-sembilan/shop-office-retail-space')]</value>
+      <webElementGuid>18fafc0d-235b-45aa-936e-c15b5de2b3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details[7]/ul/li[8]/a</value>
+      <webElementGuid>a5bf7832-ae46-466e-8ffc-28f4038d33b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.nextsix.com/properties-for-sale/negeri-sembilan/shop-office-retail-space' and (text() = 'Shops for Sale in Negeri Sembilan' or . = 'Shops for Sale in Negeri Sembilan')]</value>
+      <webElementGuid>41dce940-c0c7-4d2b-bb41-c366ba70c4a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

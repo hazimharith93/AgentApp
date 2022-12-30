@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NextSix</name>
+   <tag></tag>
+   <elementGuidId>04419788-dac8-4f2c-9143-15d5ef7ba118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b284196f-4ab9-a599-0597-b64d2361af02']/div/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'support@nextsix.com' and (text() = 'NextSix' or . = 'NextSix')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span[title=&quot;support@nextsix.com&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68e98c1a-e2dd-4129-8bc7-fa26cb3ae09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>support@nextsix.com</value>
+      <webElementGuid>3d592642-a323-4d6a-b0cc-0dffab14de85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NextSix</value>
+      <webElementGuid>4c95cdd6-93e3-4b95-b370-21c003f1581b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b284196f-4ab9-a599-0597-b64d2361af02&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi epBmH&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]/div[@class=&quot;S2NDX&quot;]/div[@class=&quot;lMF6w XG5Jd&quot;]/div[@class=&quot;W3BHj gy2aJ Dc0o9 Ejrkd&quot;]/span[1]</value>
+      <webElementGuid>cf60bbae-7cb2-4e9e-8298-af45d7166ba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b284196f-4ab9-a599-0597-b64d2361af02']/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>346722a3-6fcd-487e-b390-5cace670d458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/following::span[1]</value>
+      <webElementGuid>5978cb1f-b9d0-4bd8-8177-4aead634871d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/following::span[2]</value>
+      <webElementGuid>67f32411-634e-40eb-8ca3-2f10d5638a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/preceding::span[7]</value>
+      <webElementGuid>2aa8834c-0082-4106-a006-da12170add2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>85351ded-e542-49af-a186-ef89b613e1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'support@nextsix.com' and (text() = 'NextSix' or . = 'NextSix')]</value>
+      <webElementGuid>195a3c0b-e912-4e51-9330-087a046e7a62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

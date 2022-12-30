@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back</name>
+   <tag></tag>
+   <elementGuidId>92dc6ebe-18f9-4f16-b5e8-92b4a63f87fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/h5/u/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.the-will-form-modal-footer.modal-footer > button.the-will-form-cancel-btn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;the-will-form-modal-footer modal-footer&quot;]/button[@class=&quot;the-will-form-cancel-btn&quot;][count(. | //button[@class = 'the-will-form-cancel-btn' and (text() = 'Back' or . = 'Back')]) = count(//button[@class = 'the-will-form-cancel-btn' and (text() = 'Back' or . = 'Back')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b19280b7-7f31-4d8d-a262-27cb36382c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>the-will-form-cancel-btn</value>
+      <webElementGuid>7b70a0dd-3eeb-44a9-87d5-b422c30f75a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>64d7c9b9-06bc-469a-8ca1-ff123fe492c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;the-will-form-modal-footer modal-footer&quot;]/button[@class=&quot;the-will-form-cancel-btn&quot;]</value>
+      <webElementGuid>ae3f1146-a744-4c7c-9e9e-7d1fb78d8a99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[2]/following::button[1]</value>
+      <webElementGuid>35631998-1bce-4316-ad93-61a59fee1ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::button[2]</value>
+      <webElementGuid>ec596fcf-2e6c-4b93-9f78-9cd2f622f7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/button[2]</value>
+      <webElementGuid>b765bc47-0e3f-474d-9ab2-984c793083bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>4d643256-6ede-4c88-8cbb-0ed2786b4a90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

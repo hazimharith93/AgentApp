@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NNextSixWelcome to Nextsix AgentFri 231_b70c26</name>
+   <tag></tag>
+   <elementGuidId>a13d91d9-bb46-4e69-8215-4dc77dcd6ccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e4a2fd60-e949-6bbc-3f8e-9485fc833808']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.XG5Jd.JtO0E</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11ecdc5a-7d25-4ed3-9f94-99da4c4b5b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XG5Jd JtO0E</value>
+      <webElementGuid>0305d9f0-a7d7-4911-bb71-f04192410edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NNextSixWelcome to Nextsix AgentFri 23/12Welcome to Nextsix Agent Hi Luo re Luo, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property seeker audience.Inbox</value>
+      <webElementGuid>b572ce73-8bc1-4236-b4ae-e667b0320552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e4a2fd60-e949-6bbc-3f8e-9485fc833808&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi IjQyD JCRRb G1NES&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]</value>
+      <webElementGuid>9726450d-1254-445a-9b57-2d89bd1ec918</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e4a2fd60-e949-6bbc-3f8e-9485fc833808']/div/div/div</value>
+      <webElementGuid>c455f1dd-e30a-45d4-b770-6758844cb318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/following::div[4]</value>
+      <webElementGuid>ccba17d8-3967-4e1d-bb31-8494ff889e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>eb88ad9b-7cd9-4c12-beff-9a37c8a151e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NNextSixWelcome to Nextsix AgentFri 23/12Welcome to Nextsix Agent Hi Luo re Luo, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property seeker audience.Inbox' or . = 'NNextSixWelcome to Nextsix AgentFri 23/12Welcome to Nextsix Agent Hi Luo re Luo, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property seeker audience.Inbox')]</value>
+      <webElementGuid>c483cc2d-97a3-4566-9b7d-5d6e98e0e69f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

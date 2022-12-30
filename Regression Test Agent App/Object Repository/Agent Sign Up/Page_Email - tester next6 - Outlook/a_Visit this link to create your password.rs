@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Visit this link to create your password</name>
+   <tag></tag>
+   <elementGuidId>592cdfb2-8e58-4734-8026-3394f14dfcab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div/div/b[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e968858-e4df-4308-93a1-d9c7d5d5848f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit-verify.nextsix.com/reset/1c1cb46f092fe1e363ac72f263563bf4db0f413e64dff89e86bcf0e60bd9ae6a</value>
+      <webElementGuid>66eee3ea-b854-4055-ba0d-6c44f504d68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>15eee1fb-a8ef-464e-af49-2e9c8f704a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>92e32674-daae-489b-b76c-eaf61ebb231f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-auth</name>
+      <type>Main</type>
+      <value>NotApplicable</value>
+      <webElementGuid>635e7605-dc46-43f2-968d-60961d19b56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-linkindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>30514964-331b-4510-8415-3e1dedeabf77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visit this link to create your password</value>
+      <webElementGuid>78f0f9a8-5bfe-444a-88ec-4e9d6e5e5c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReadingPaneContainerId&quot;)/div[1]/div[@class=&quot;g_zET&quot;]/div[@class=&quot;MtujV&quot;]/div[@class=&quot;L72vd&quot;]/div[@class=&quot;Q8TCC yyYQP customScrollBar&quot;]/div[2]/div[@class=&quot;aVla3&quot;]/div[1]/div[1]/div[@class=&quot;wide-content-host&quot;]/div[@class=&quot;SlLx9 byzS1&quot;]/div[@class=&quot;XbIp4 jmmB7 GNqVo yxtKT allowTextSelection&quot;]/div[1]/div[@class=&quot;rps_a3e1&quot;]/div[1]/b[2]/a[1]</value>
+      <webElementGuid>f7acd3aa-900d-4085-b1f8-5c7b4cf30a9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ReadingPaneContainerId']/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div/div/b[2]/a</value>
+      <webElementGuid>572b15b6-9051-40ec-9088-b2c181630fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Visit this link to create your password')]</value>
+      <webElementGuid>eaae34e9-970e-409e-a864-246727ee4a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testernext6@outlook.com'])[1]/following::a[1]</value>
+      <webElementGuid>f3432568-d252-4bee-880f-16cd9d65f2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nextsix'])[33]/following::a[1]</value>
+      <webElementGuid>afd59388-c7c4-4ea4-99b7-f2f84f75dacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This link is only valid for the next 24 hours'])[1]/preceding::a[1]</value>
+      <webElementGuid>640edbc7-85d3-4f3c-9ee0-573f19a637b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nextsix'])[34]/preceding::a[1]</value>
+      <webElementGuid>e2f79d5c-e0ca-4b21-90a6-7ab3ed59e3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Visit this link to create your password']/parent::*</value>
+      <webElementGuid>ca075123-27fd-4819-8572-24dc52f62752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit-verify.nextsix.com/reset/1c1cb46f092fe1e363ac72f263563bf4db0f413e64dff89e86bcf0e60bd9ae6a')]</value>
+      <webElementGuid>d8ca0b47-4ece-4c57-bddf-50d35f3d34be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b[2]/a</value>
+      <webElementGuid>af1f9ad0-a16c-42f7-9c8b-49f41339d333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit-verify.nextsix.com/reset/1c1cb46f092fe1e363ac72f263563bf4db0f413e64dff89e86bcf0e60bd9ae6a' and (text() = 'Visit this link to create your password' or . = 'Visit this link to create your password')]</value>
+      <webElementGuid>ba44ac48-f86b-48a3-9e4a-a22c66ba29c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

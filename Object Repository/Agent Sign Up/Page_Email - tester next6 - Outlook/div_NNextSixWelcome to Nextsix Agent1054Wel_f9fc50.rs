@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NNextSixWelcome to Nextsix Agent1054Wel_f9fc50</name>
+   <tag></tag>
+   <elementGuidId>57082292-a429-4d9b-b9aa-bbbfbd74b681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.XG5Jd.JtO0E</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AQAAAAAAAQABAAAAAAAZDAAAAAA=']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8956e899-b779-4a58-8b48-823ff4d3aa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XG5Jd JtO0E</value>
+      <webElementGuid>871e8b4c-bcdd-410f-8d01-ac46482ad122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NNextSixWelcome to Nextsix Agent10:54Welcome to Nextsix Agent Hi Bozocar method Agent App, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property se</value>
+      <webElementGuid>f6f9c4d3-326e-4742-8f02-addceba868e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AQAAAAAAAQABAAAAAAAZDAAAAAA=&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi epBmH _KLsp&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]</value>
+      <webElementGuid>f4b88931-3b57-4e39-9bbf-76743b015961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AQAAAAAAAQABAAAAAAAZDAAAAAA=']/div/div/div</value>
+      <webElementGuid>7cd06de1-8acb-416c-b474-0bbb917ac8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Now'])[1]/following::div[4]</value>
+      <webElementGuid>37dce8fb-053a-412b-bb00-25f1e7702071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>cb4b4b39-b9e5-480b-95fe-40adf10f0310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NNextSixWelcome to Nextsix Agent10:54Welcome to Nextsix Agent Hi Bozocar method Agent App, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property se' or . = 'NNextSixWelcome to Nextsix Agent10:54Welcome to Nextsix Agent Hi Bozocar method Agent App, your Nextsix Agent account has been created. We’re very excited for you to begin this journey in building your agent profile and effectively showcasing your properties to the most suitable property se')]</value>
+      <webElementGuid>7503f7d8-8ce7-4319-a047-40e54c353883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

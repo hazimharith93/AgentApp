@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select State</name>
+   <tag></tag>
+   <elementGuidId>f200c677-74b6-4ff0-8d32-9c4341924831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[207]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-8.col-sm-8.col-md-4.col-lg-4 > div.btn-group > span.dd-drop-select > button.text-capitalize-dropdown-toggle-pvpage.m-1.dropdown-toggle.btn.btn-transparent.btn-m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>adff51b0-ed52-4b44-b59f-e63f3a9f994d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a35a51ee-e68b-4728-9a68-1357572ccb11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>485de0c7-49e7-444d-a2ba-658c3dc3b509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c8fe3046-11e3-4bd7-b9f1-f7f779dcea9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m</value>
+      <webElementGuid>882007f3-f8af-4b80-88cf-ab945be8f3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select State*</value>
+      <webElementGuid>0d2c12e4-2c77-46c6-a9c3-9e1eb4cfa7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;the-will-background&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 col-sm-8 col-md-4 col-lg-4&quot;]/div[@class=&quot;btn-group&quot;]/span[@class=&quot;dd-drop-select&quot;]/button[@class=&quot;text-capitalize-dropdown-toggle-pvpage m-1 dropdown-toggle btn btn-transparent btn-m&quot;]</value>
+      <webElementGuid>e3b62b60-8404-460a-a4cb-9eb7fca6f33f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[207]</value>
+      <webElementGuid>95e44dc1-a486-4b00-9006-d9404091ab00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[13]/div[2]/div/span/button</value>
+      <webElementGuid>309b2244-9a55-4838-b82b-b0a8725f7ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/following::button[1]</value>
+      <webElementGuid>5e621e64-1b6b-4f4d-aeec-def7fee55cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johor'])[1]/preceding::button[1]</value>
+      <webElementGuid>3c1f038b-347e-4c2d-848b-0609e3afe072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div/span/button</value>
+      <webElementGuid>a0004084-6924-40e1-bc71-2917b07686c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select State*' or . = 'Select State*')]</value>
+      <webElementGuid>e49f6289-44ab-4374-9cf1-3f705a126f83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

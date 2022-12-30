@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin Approve Agent Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>189e36ee-c4b8-4562-9b28-e762695c532b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31e03db8-5c4b-4750-a14b-50fb1df4efcb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31e03db8-5c4b-4750-a14b-50fb1df4efcb</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

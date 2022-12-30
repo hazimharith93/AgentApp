@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NationalitySelect NationalityMalaysianA_13ff34</name>
+   <tag></tag>
+   <elementGuidId>1d762ad6-44f6-44d9-a9c1-7756b3b043c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08e06cbb-b15a-47ff-a927-c68b15ac4989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>fee7a041-cbbe-458a-bdd3-f25a6e8b1fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nationality:*Select Nationality*MalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian/TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean</value>
+      <webElementGuid>f2803a8a-3111-41f5-b2a0-2d142fc347cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;the-will-background&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>167cb986-88c7-48bd-bc17-8ea1e2f80d36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      <webElementGuid>26ab8197-ea6c-4ffe-a500-1ad180de079b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>11f0aaf3-c99c-498f-a68e-5ee4190bcdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>c24c2796-32f8-4044-aa2b-bd001ef59a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nationality:*Select Nationality*MalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian/TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean' or . = 'Nationality:*Select Nationality*MalaysianAfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian/TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean')]</value>
+      <webElementGuid>0da71876-57b0-4c40-a1ab-4c29048194f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

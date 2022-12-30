@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Personal Details Login Username  Check _6ccb6a</name>
+   <tag></tag>
+   <elementGuidId>0bbce3a4-c45f-4b6f-a637-615afcaf8add</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body > div.row > div.col</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d92b123-90c7-45c4-bed0-8c1736d38381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>72a71463-c0b1-443e-ba92-2848a78d973c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Personal Details Login Username * :Check availabilityFull name* :First Name* :Last Name* :Nickname* :Mobile* :IC Number* :Passport* :Date of Birth :Gender :GenderFemaleMaleAddress :State :StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan PutrajayaArea :AreaAbout :(Maximum Length = 250 characters)Agent ImageDrag and drop an image here, or click to select imageVerification Photos*images</value>
+      <webElementGuid>5493ab49-09fe-4123-8079-c498500b85ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]</value>
+      <webElementGuid>8b0dd768-b792-4310-bbd8-735cca0a3133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[4]/div</value>
+      <webElementGuid>5bfe9d8b-aa2d-41b5-814b-43ad344349df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active :'])[1]/following::div[3]</value>
+      <webElementGuid>7f93f831-dcc5-4586-9386-f3193714da69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::div[5]</value>
+      <webElementGuid>69925bf1-993a-400b-8bf5-fe5edf87d947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>10dba581-6e6f-492f-93e5-983265a4ac8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Personal Details Login Username * :Check availabilityFull name* :First Name* :Last Name* :Nickname* :Mobile* :IC Number* :Passport* :Date of Birth :Gender :GenderFemaleMaleAddress :State :StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan PutrajayaArea :AreaAbout :(Maximum Length = 250 characters)Agent ImageDrag and drop an image here, or click to select imageVerification Photos*images' or . = ' Personal Details Login Username * :Check availabilityFull name* :First Name* :Last Name* :Nickname* :Mobile* :IC Number* :Passport* :Date of Birth :Gender :GenderFemaleMaleAddress :State :StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan PutrajayaArea :AreaAbout :(Maximum Length = 250 characters)Agent ImageDrag and drop an image here, or click to select imageVerification Photos*images')]</value>
+      <webElementGuid>f541b6b1-592b-4d12-bf19-18863ab2ba04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
