@@ -6,11 +6,11 @@
    <elementGuidId>9c2225ab-253c-459a-b693-7c5ffe4af3ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='navItem-agent application-1']/span[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[@id='navItem-agent application-1']/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5d910e07-3a98-475c-a43e-c2ac47693a1c</webElementGuid>
+      <webElementGuid>39f98434-ee34-436e-8d07-695e405ce2b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>agent application</value>
-      <webElementGuid>25f75172-629f-4d61-b9bb-679900212d2a</webElementGuid>
+      <webElementGuid>ae4194d5-8767-42ca-9325-613b90d32a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navItem-agent application-1&quot;)/span[2]</value>
-      <webElementGuid>0f9df42e-9181-49e3-8bf8-13ab73b15489</webElementGuid>
+      <webElementGuid>58407241-debe-4fa7-9adc-967f39c747b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='navItem-agent application-1']/span[2]</value>
-      <webElementGuid>cdff06c4-8c9b-44d1-9799-002f50e5671e</webElementGuid>
+      <webElementGuid>0b00ebe5-f714-4009-9f65-21ae5aab3fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='agents'])[1]/following::span[2]</value>
-      <webElementGuid>3eca4b1d-78b0-4b76-b2d7-cd56a2e2a42a</webElementGuid>
+      <webElementGuid>654cab3e-8d6e-46ef-8727-c385ceaeb180</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='agency'])[1]/following::span[4]</value>
-      <webElementGuid>7e9c491e-97c7-4cd8-bcca-d1fceb4179c7</webElementGuid>
+      <webElementGuid>0b58a3af-f099-4b7a-b803-911de5bc6be4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='properties'])[1]/preceding::span[2]</value>
-      <webElementGuid>f3bc0b06-9785-4ac4-8164-04d7d095cc05</webElementGuid>
+      <webElementGuid>1d1b4e39-46a0-4e9e-848a-b724a77662dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='co-broke'])[1]/preceding::span[4]</value>
-      <webElementGuid>d6cc6e0d-4715-40b8-8c81-fab83df651f8</webElementGuid>
+      <webElementGuid>7a6107ae-0f79-44f7-9297-e12fb90703c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='agent application']/parent::*</value>
-      <webElementGuid>6213aeec-4396-4c67-9dad-017ed83bccbc</webElementGuid>
+      <webElementGuid>f738b64b-7510-41f7-8593-0245daac02e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/li[2]/a/span[2]</value>
-      <webElementGuid>903cd281-fb9b-4b82-909a-969a77d276dd</webElementGuid>
+      <webElementGuid>6a0168c6-2c0c-449e-a41d-7fe17c91f943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'agent application' or . = 'agent application')]</value>
-      <webElementGuid>78b4212a-db63-48b2-9da8-072d83f0664e</webElementGuid>
+      <webElementGuid>6a062bfc-d870-49ce-91f8-82be6a4ccdf5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>9c88c2ae-0fd9-4333-9a1a-347662abeeb5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='Active']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Active']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>e5cbe767-305e-46be-9ee9-7cc17b113ad1</webElementGuid>
+      <webElementGuid>aad761dd-efb0-414c-b19c-648202eca31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Active</value>
-      <webElementGuid>829a7d5b-16a9-44c4-a09b-836997cacf84</webElementGuid>
+      <webElementGuid>c068aed4-bab2-43b3-9829-26d8af22f1fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Active</value>
-      <webElementGuid>3a98afe9-a4f5-4a55-94a1-cc87f8dfc5d1</webElementGuid>
+      <webElementGuid>a5bcd3cc-f217-416e-ae7e-48a69686b763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selection-input form-control</value>
-      <webElementGuid>53cc73b8-62b3-45b0-be11-91d5e5650e5f</webElementGuid>
+      <webElementGuid>c7a5cae4-3447-4693-984e-751051736427</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DisabledIn ServiceTemporary Out of Service</value>
-      <webElementGuid>37fbb11a-7111-48a2-8358-e7ce53c9a33e</webElementGuid>
+      <webElementGuid>238f71e4-fef7-4a58-8bc5-ce1a2c1f2a71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Active&quot;)</value>
-      <webElementGuid>b0c1a4d3-da1d-43ac-9aa2-e9d2f0f30a35</webElementGuid>
+      <webElementGuid>02aa2011-827d-4994-9ee6-e42370cb0ed6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='Active']</value>
-      <webElementGuid>85c16604-7706-4dbf-962a-adaa7b9e2088</webElementGuid>
+      <webElementGuid>7b67f17a-1cb7-4bd2-8492-e4847f422a26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[3]/div[2]/select</value>
-      <webElementGuid>b26c0cde-ef8e-4105-96ab-08ede66ccfeb</webElementGuid>
+      <webElementGuid>70e68c8a-63df-4f07-8c47-52d620e6d9b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active :'])[1]/following::select[1]</value>
-      <webElementGuid>030a2370-8388-407f-a441-fb2ca50e091f</webElementGuid>
+      <webElementGuid>695164f4-86dc-45ba-9417-b15cf0182366</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::select[1]</value>
-      <webElementGuid>5c1d2507-a4d1-4f0b-85f3-dfbcf9fd7945</webElementGuid>
+      <webElementGuid>5cc180ff-ec8c-4d7e-b63a-151649d213d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Details'])[1]/preceding::select[1]</value>
-      <webElementGuid>2b63314a-8009-431a-9c12-85fe461598ec</webElementGuid>
+      <webElementGuid>095e51b6-40c9-4e08-a651-0ebbd9697e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>44966d4a-bb4b-408e-ace2-848ec8285f4d</webElementGuid>
+      <webElementGuid>60974ca2-1de8-431a-bcc1-78f456c446b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'Active' and @name = 'Active' and (text() = 'DisabledIn ServiceTemporary Out of Service' or . = 'DisabledIn ServiceTemporary Out of Service')]</value>
-      <webElementGuid>70b1d04d-2427-41e4-a147-bf1c70f51c81</webElementGuid>
+      <webElementGuid>3e5d3d2d-296b-4275-b7d9-7d98028a094f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

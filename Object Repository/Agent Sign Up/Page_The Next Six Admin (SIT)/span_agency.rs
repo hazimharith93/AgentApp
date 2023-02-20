@@ -6,22 +6,26 @@
    <elementGuidId>626c7b88-77a9-4d67-884e-39016466988e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/aside[@class=&quot;cr-sidebar cr-sidebar--open&quot;]/div[@class=&quot;cr-sidebar__content&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;cr-sidebar__nav-item nav-item&quot;]/a[@class=&quot;cr-sidebar__nav-item-collapse nav-link&quot;]/div[@class=&quot;d-flex&quot;]/span[1][count(. | //span[(text() = 'agency' or . = 'agency')]) = count(//span[(text() = 'agency' or . = 'agency')])]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a/div/span</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>88f8e7af-addf-4d65-a4ee-0fb63d441ce2</webElementGuid>
+      <webElementGuid>93b49ec1-a2ec-4dda-9130-b6daa0e96975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,15 +33,15 @@
       <name>text</name>
       <type>Main</type>
       <value>agency</value>
-      <webElementGuid>18fd3e9f-7317-4879-918a-cc17e18f9acb</webElementGuid>
+      <webElementGuid>70321672-3b0d-4b8a-a0f5-cc6de7825443</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/aside[@class=&quot;cr-sidebar cr-sidebar--open&quot;]/div[@class=&quot;cr-sidebar__content&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;cr-sidebar__nav-item nav-item&quot;]/a[@class=&quot;cr-sidebar__nav-item-collapse nav-link&quot;]/div[@class=&quot;d-flex&quot;]/span[1]</value>
-      <webElementGuid>1f54c7a3-7126-41d1-b6e7-dc473af628ce</webElementGuid>
+      <webElementGuid>aeb4de4a-7cdc-471f-bb71-1cb782eb8ca7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a/div/span</value>
-      <webElementGuid>5b4216a2-7561-458b-8946-8da2f2d3d1cf</webElementGuid>
+      <webElementGuid>b3165923-336c-4964-88f0-8b3764948624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Master'])[1]/following::span[1]</value>
-      <webElementGuid>ef03c313-3732-4278-99bb-2b57698965e2</webElementGuid>
+      <webElementGuid>fb64d164-753b-46f6-911e-194d80c82fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[1]/following::span[3]</value>
-      <webElementGuid>c6f7356e-bf75-42c9-95ef-f8f0f864fd23</webElementGuid>
+      <webElementGuid>851b5880-5396-42c4-b662-7427e9a7b945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='agents'])[1]/preceding::span[2]</value>
-      <webElementGuid>aeb86647-2de5-49d6-b872-f695a5903d12</webElementGuid>
+      <webElementGuid>bf13cd86-70ae-4473-8141-005a7e3575d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='agent application'])[1]/preceding::span[4]</value>
-      <webElementGuid>91c5bd84-356d-4291-9dc0-a6ca795326c4</webElementGuid>
+      <webElementGuid>ff1c02f3-de3e-4d05-9628-886b54eeb447</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='agency']/parent::*</value>
-      <webElementGuid>95068273-b9f1-44ce-bb71-00f074ffe6f4</webElementGuid>
+      <webElementGuid>1ccd3358-b501-4a8c-a2ba-d7fc6afb7b9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a/div/span</value>
-      <webElementGuid>afce110f-311a-42e5-965b-640859c7a6d5</webElementGuid>
+      <webElementGuid>ce9ad65d-2d80-4034-9fd2-ed382cf5e006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'agency' or . = 'agency')]</value>
-      <webElementGuid>c31aa679-87e2-4244-9d7e-f36d3ae96def</webElementGuid>
+      <webElementGuid>23ec25d5-73fd-4da8-a02f-9b1fed988c8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

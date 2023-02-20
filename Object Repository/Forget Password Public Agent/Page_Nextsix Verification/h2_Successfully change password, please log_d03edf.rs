@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Successfully change password, please log_d03edf</name>
+   <tag></tag>
+   <elementGuidId>eb5533b2-6cdd-4610-a2c5-482bdf7fef92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/h2[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>1179a8b6-4320-4715-8bcb-1f187687ce9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully change password, please login via app.</value>
+      <webElementGuid>6e019ff0-18e7-4735-ae68-20202ea1ded4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/h2[2]</value>
+      <webElementGuid>03bbf3ee-663f-46bc-8a24-fac193a7769c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/h2[2]</value>
+      <webElementGuid>69f3a50d-0d9a-4bbe-bff1-6e6a2315567b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Successfully change password, please login via app.']/parent::*</value>
+      <webElementGuid>5f4fbce5-bff2-4bd2-8d51-f7fe1ec2091e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[2]</value>
+      <webElementGuid>5e9d2e0f-b153-4233-850f-8dd40aa40d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Successfully change password, please login via app.' or . = 'Successfully change password, please login via app.')]</value>
+      <webElementGuid>28dd0f82-7933-4366-bca5-5bcdca757ba0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

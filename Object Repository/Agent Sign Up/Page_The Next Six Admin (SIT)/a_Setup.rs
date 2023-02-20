@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setup</name>
+   <tag></tag>
+   <elementGuidId>b59e8d65-b51f-496a-9c1a-d3e854594f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>40ae365f-3a3e-4144-adba-9a5955bc5725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cr-sidebar__nav-item-collapse nav-link</value>
+      <webElementGuid>10b0c8b0-c7df-4a65-bbf3-32f6498f6a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setup</value>
+      <webElementGuid>e0f41c0e-3d0b-4387-980e-58d70305c72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/aside[@class=&quot;cr-sidebar cr-sidebar--open&quot;]/div[@class=&quot;cr-sidebar__content&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;cr-sidebar__nav-item nav-item&quot;]/a[@class=&quot;cr-sidebar__nav-item-collapse nav-link&quot;]</value>
+      <webElementGuid>a242dc57-5336-4849-8182-0688069f163f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/aside/div[2]/ul/li[6]/a</value>
+      <webElementGuid>48008c19-8058-4b53-8071-eef416820822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BD profile'])[1]/following::a[1]</value>
+      <webElementGuid>d8d8af18-cf67-4d4d-805c-2e926e15f427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Developement'])[1]/following::a[2]</value>
+      <webElementGuid>8cd914b9-0f4c-4122-ab67-39783b4afc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Master'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ef7ec13-da27-4f48-869c-c2ef74182664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>6e5dbfb0-ccbd-45e6-ad59-ef0318c39226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Setup' or . = 'Setup')]</value>
+      <webElementGuid>e505c7e5-e8b8-45ec-9ad2-92ab91b339a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

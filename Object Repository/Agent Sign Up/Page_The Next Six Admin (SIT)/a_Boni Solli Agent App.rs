@@ -6,12 +6,12 @@
    <elementGuidId>bdf86d34-cbe3-42bc-9113-7c6c547f6998</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.agentApp-nameBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f519d090-7519-48de-84ce-569f40ffe7ba</webElementGuid>
+      <webElementGuid>8a5de1e4-9f74-4045-934b-68d4b6e09014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>agentApp-nameBtn</value>
-      <webElementGuid>51c0fe69-122f-448f-adfb-52a23080bfe5</webElementGuid>
+      <webElementGuid>9d02db84-f1fe-4e17-b7b8-ce74896ab336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Boni Solli Agent App</value>
-      <webElementGuid>fa947a80-cb48-4790-9300-4b0c70a35686</webElementGuid>
+      <webElementGuid>cae8275a-97f0-453b-8891-b0818afef177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;table-container__table table-container__table--break-md&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;agentApp-nameBtn&quot;]</value>
-      <webElementGuid>d47eb227-4e9e-4371-8eb8-a262bd41d1e8</webElementGuid>
+      <webElementGuid>0161899a-c038-4eb3-8dfa-f2c96b6a472d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td/a</value>
-      <webElementGuid>cd7f5ce3-da4e-45be-a5b1-850572b2c1a6</webElementGuid>
+      <webElementGuid>9523f617-39ab-4871-aba6-f42e80665e49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Boni Solli Agent App')]</value>
-      <webElementGuid>6be64472-6f2d-4e91-987a-901e7d8a4e1b</webElementGuid>
+      <webElementGuid>85e2d0ec-c008-4263-a52a-2688a65e465f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed By'])[1]/following::a[1]</value>
-      <webElementGuid>b21861a6-5916-4093-9e2e-0c1f0315fb62</webElementGuid>
+      <webElementGuid>7caf3bcc-e2ad-40c0-950f-51212e74bffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed Date'])[2]/following::a[1]</value>
-      <webElementGuid>31c4e4ce-7338-46b8-8994-137cd1620dea</webElementGuid>
+      <webElementGuid>7eef1b73-fe89-40af-94df-881a0ac9983a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='wgerard381@gmail.com'])[1]/preceding::a[1]</value>
-      <webElementGuid>dc2e74c5-ea9a-49a1-9f05-ef264f77de60</webElementGuid>
+      <webElementGuid>60cb1be5-4e07-4527-9da0-2628979f9100</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kick Starter Pack (Free)'])[1]/preceding::a[1]</value>
-      <webElementGuid>fd092b02-0289-47b6-bda1-d0f2b07facbf</webElementGuid>
+      <webElementGuid>f4d2df32-38e7-4673-9b43-ea8e483707df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Boni Solli Agent App']/parent::*</value>
-      <webElementGuid>13f53e62-bcf4-4988-9034-4bc05cc79ff5</webElementGuid>
+      <webElementGuid>99743f10-1026-4449-996f-251e4cd4b16e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>dcedd3c4-9fd6-4936-a3e8-53718c3ba5da</webElementGuid>
+      <webElementGuid>9de87c3b-bac0-49e2-9da8-a4a7a6d57f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Boni Solli Agent App' or . = 'Boni Solli Agent App')]</value>
-      <webElementGuid>80d22c3d-14c0-4928-b1d9-526375d928fc</webElementGuid>
+      <webElementGuid>411dca12-0856-476c-a953-48c491535bb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

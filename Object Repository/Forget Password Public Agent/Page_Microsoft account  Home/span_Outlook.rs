@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Outlook</name>
+   <tag></tag>
+   <elementGuidId>5319d43d-b3e4-4afe-960b-c2dc440d05c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._3eLVxYuaVkSqw02CcIH8ec.o365sx-neutral-dark-font > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='O365_AppTile_Mail']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39f86dfc-5603-4695-bf53-704d17434a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outlook</value>
+      <webElementGuid>2ef0464d-fc85-4d9a-ac99-01dd1762afa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;O365_AppTile_Mail&quot;)/div[@class=&quot;_3eLVxYuaVkSqw02CcIH8ec o365sx-neutral-dark-font&quot;]/span[1]</value>
+      <webElementGuid>beab28e9-219a-424b-b32d-3715447d170f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='O365_AppTile_Mail']/div[2]/span</value>
+      <webElementGuid>98bc3967-a2c8-443a-aca4-b444ce95b2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::span[3]</value>
+      <webElementGuid>af92d8c1-d54e-4912-8f32-8de27d12b4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft 365'])[2]/following::span[4]</value>
+      <webElementGuid>8c966e45-4d3b-4be2-9b16-efa4937d6b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OneDrive'])[1]/preceding::span[2]</value>
+      <webElementGuid>17e1128f-d3c1-4d2f-a044-904159550b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[1]/preceding::span[5]</value>
+      <webElementGuid>cc9e9d85-5c38-4b31-b801-f6824af5ddd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/div[2]/span</value>
+      <webElementGuid>7e5f2a92-d471-4535-a822-e4e8242ffbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Outlook' or . = 'Outlook')]</value>
+      <webElementGuid>d66a47ba-13d4-4ca2-bd9d-dac78b55d9da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

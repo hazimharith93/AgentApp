@@ -6,12 +6,12 @@
    <elementGuidId>a10d8099-b8bf-48d9-9069-7fa72bf516dc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='mobile']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;mobile&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='mobile']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>70218a82-f5c6-417c-aa0a-69330b2342d9</webElementGuid>
+      <webElementGuid>63146d59-8d3f-48e3-92d9-f8cd39ff0c5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mobile</value>
-      <webElementGuid>45a091a1-e834-4a1f-a488-944c5d166a27</webElementGuid>
+      <webElementGuid>166bd360-e5cc-4b60-a31e-573e5bc7c75b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Mobile</value>
-      <webElementGuid>07e96be1-61a4-4d5f-bb1c-9f897e4b1e1b</webElementGuid>
+      <webElementGuid>8fd8d38d-a060-4955-b8e2-a0033cef0d53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ea8a0270-0615-4112-b90a-a2f62b1a4cb3</webElementGuid>
+      <webElementGuid>2d896a09-6fdb-4f00-a56d-aded6990a556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>898fe91e-f163-4299-a3ab-702e24e62f79</webElementGuid>
+      <webElementGuid>0da4d408-5459-427a-90ba-62b3de413193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>60132358516</value>
-      <webElementGuid>8b756d73-379d-4ba6-a1b5-73bc66e42b12</webElementGuid>
+      <webElementGuid>73a56e3b-f3da-4f6f-b162-e3813556a0d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>4bb85561-0e2e-45c9-b93a-de05844f6883</webElementGuid>
+      <webElementGuid>83a53db3-3a96-490e-962e-ef5c5a27ec75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='mobile']</value>
-      <webElementGuid>e973e25d-2f0c-4904-8971-52a2cd2bff65</webElementGuid>
+      <webElementGuid>7914954d-0bc9-474b-98ca-f35bc93bc57a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[4]/div/div[7]/div/div/input</value>
-      <webElementGuid>c89ea865-2a95-4f41-843b-e78968921e12</webElementGuid>
+      <webElementGuid>05052e21-21b1-4d1b-a7db-ccbb62bc8fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/input</value>
-      <webElementGuid>cd85e511-470f-4f32-9d05-d3544b58d0d4</webElementGuid>
+      <webElementGuid>6eba3781-2da0-4efd-a149-6b39311bbdbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'mobile' and @placeholder = 'Mobile' and @type = 'text']</value>
-      <webElementGuid>d64fadc3-eb09-4b64-bd71-517b00637393</webElementGuid>
+      <webElementGuid>38e2ac71-b5d6-47f4-8730-a826d0b1b146</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

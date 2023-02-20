@@ -6,12 +6,12 @@
    <elementGuidId>59d49cb4-44d2-47a6-acce-7064b2a236e7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-5-option-3']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#react-select-5-option-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-5-option-3']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b2452464-b39e-4117-ae5f-b9e771175df8</webElementGuid>
+      <webElementGuid>93b19dff-cdde-4b72-b90c-04f0cd539520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-1n7v3ny-option</value>
-      <webElementGuid>e04e82a4-5f84-4437-b8f2-22c6eb514853</webElementGuid>
+      <webElementGuid>e5fdafdd-2d49-4119-b8d6-31b298379e84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-5-option-3</value>
-      <webElementGuid>618a4c9a-1293-4b89-b799-95fadd5e56d2</webElementGuid>
+      <webElementGuid>e4a109fc-c76f-474b-bc3c-368cb0cf077b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>f4dbddf4-f7fa-41ee-9d74-380f35cd1460</webElementGuid>
+      <webElementGuid>a0fb6e15-faf4-4fef-9115-f8fe63e7f868</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Avenew Realty </value>
-      <webElementGuid>f27ad97d-561a-4383-b719-d01e324a1ddf</webElementGuid>
+      <webElementGuid>aed583d0-ea77-4b4b-b557-06e1d0e90512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-5-option-3&quot;)</value>
-      <webElementGuid>c7393d53-5956-44c6-8869-44dd1d0d564c</webElementGuid>
+      <webElementGuid>824af8e2-7e0c-4360-85c9-b3b40735ae5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-5-option-3']</value>
-      <webElementGuid>53d23dd4-6535-4a2f-b15f-9f09cbf14b8b</webElementGuid>
+      <webElementGuid>783b350e-885c-43c8-bd73-5ca812a4d016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[4]/div[2]/div[5]/div[2]/div/div/div[2]/div/div[4]</value>
-      <webElementGuid>9519a284-7bd9-4bb8-b2b4-2462cc526b38</webElementGuid>
+      <webElementGuid>bc304bef-ecef-41d8-9e9a-b99b446a6861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ork (Pj)'])[1]/following::div[1]</value>
-      <webElementGuid>86d868cb-2c99-49bc-8df1-723cf5c03584</webElementGuid>
+      <webElementGuid>c9b90a59-2a41-41c2-891c-50de13742d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='w'])[4]/following::div[1]</value>
-      <webElementGuid>ca2facfe-fddd-444e-83e3-96d8ba73ae92</webElementGuid>
+      <webElementGuid>e26f9de2-fdbd-43df-a23f-b1c8b6e5f6ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div[4]</value>
-      <webElementGuid>dfd83584-1b97-44d6-bd31-b763733b4f5a</webElementGuid>
+      <webElementGuid>26a029ca-fa97-44cd-8ccc-6ff9d82dae6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-5-option-3' and (text() = 'Avenew Realty ' or . = 'Avenew Realty ')]</value>
-      <webElementGuid>0c88f1a1-2cc2-49f8-9a81-6667dd62db11</webElementGuid>
+      <webElementGuid>73c9823d-e0ab-4cfc-a0e9-de450034f488</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NextSix</name>
+   <tag></tag>
+   <elementGuidId>edfce295-b453-43af-bac5-f285bea16bf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'gMkyO gy2aJ Dc0o9 Ejrkd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gMkyO.gy2aJ.Dc0o9.Ejrkd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='0b2fe04d-5a9e-0de4-f1ed-3b649f22c1af']/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc63baf0-97d9-4582-a87e-7b998692d1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gMkyO gy2aJ Dc0o9 Ejrkd</value>
+      <webElementGuid>0b61ff8c-d597-437d-9588-96dcd2ad0f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NextSix</value>
+      <webElementGuid>c15816d5-5301-47d0-a381-c9f3c5f277d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0b2fe04d-5a9e-0de4-f1ed-3b649f22c1af&quot;)/div[1]/div[@class=&quot;zKDWD YbB6r IKvQi epBmH _KLsp&quot;]/div[@class=&quot;XG5Jd JtO0E&quot;]/div[@class=&quot;S2NDX&quot;]/div[@class=&quot;KKAj0 XG5Jd&quot;]/div[@class=&quot;gMkyO gy2aJ Dc0o9 Ejrkd&quot;]</value>
+      <webElementGuid>a6478694-1fa5-4690-9798-ce7304467098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0b2fe04d-5a9e-0de4-f1ed-3b649f22c1af']/div/div/div/div[2]/div/div</value>
+      <webElementGuid>07f6969e-9fdb-41b5-b28b-5943bf91d2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/following::div[4]</value>
+      <webElementGuid>fce94100-a13b-4339-a3d8-ad40e75a6008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/following::div[13]</value>
+      <webElementGuid>e5a873e3-2f95-44cb-a166-d39c147480af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[2]</value>
+      <webElementGuid>c24b8bd4-b2c8-47e3-a890-550815110e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>f738033b-0abd-45c3-b7ce-84de5b8d21d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NextSix' or . = 'NextSix')]</value>
+      <webElementGuid>73d1954d-a558-4daa-9f38-c2df447e12ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

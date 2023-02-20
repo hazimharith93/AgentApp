@@ -6,12 +6,12 @@
    <elementGuidId>3838d8c7-97d8-4d92-83d6-a450a82b475e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='icno']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;icno&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='icno']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c6d019f1-f5e3-4973-ac2b-35fc825ff933</webElementGuid>
+      <webElementGuid>cd85fa44-c8af-4158-b1ca-693e464b3954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>icno</value>
-      <webElementGuid>61a860f9-150d-4d88-9bcd-46186a7d8a89</webElementGuid>
+      <webElementGuid>0c0714f4-4eb2-4e29-8f8b-3fe495540682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>IC Number</value>
-      <webElementGuid>4946b666-390f-431d-97c3-8b90f33f5bb3</webElementGuid>
+      <webElementGuid>7a806441-05f3-4991-a19b-63399940f429</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8d7d76e6-2ad5-4775-92f1-3aa277da65de</webElementGuid>
+      <webElementGuid>3bf23b21-2ae9-4f42-b5c5-189ca9718306</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>7dc92561-6d68-44c7-a9bb-4d4a41c8b4b9</webElementGuid>
+      <webElementGuid>06b2e9be-8f0a-4f99-bd7d-1100072ad958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>8c87398b-cc74-43f9-922d-4d41057c5191</webElementGuid>
+      <webElementGuid>e44b4c2e-d317-45dc-894b-0011d358730b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='icno']</value>
-      <webElementGuid>78a67988-a38e-49b5-878f-09aa33da3ce2</webElementGuid>
+      <webElementGuid>5275881b-d50d-4016-b95f-cc40fa21aaa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div[2]/div[4]/div/div[8]/div/div/input</value>
-      <webElementGuid>a4c5746e-8b8b-40df-b858-f58ffd98f591</webElementGuid>
+      <webElementGuid>04441a83-6ebb-42ac-a190-628bfd7d0074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/input</value>
-      <webElementGuid>7c8a835f-dbf4-40b1-8e7a-af1f8f263660</webElementGuid>
+      <webElementGuid>934048c0-f456-477d-8c43-3d6a6591100f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'icno' and @placeholder = 'IC Number' and @type = 'text']</value>
-      <webElementGuid>45c401c5-4087-4970-a586-77fc2b289ef3</webElementGuid>
+      <webElementGuid>64108ba5-0509-469b-8dfc-06ee22714c0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

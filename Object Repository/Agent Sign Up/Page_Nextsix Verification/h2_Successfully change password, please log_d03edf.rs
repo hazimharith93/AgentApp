@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>3c2c4a81-e4e8-4117-82d2-9b0e1ee8c55e</webElementGuid>
+      <webElementGuid>6151f4e8-b113-4e38-85f7-50f25125945c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Successfully change password, please login via app.</value>
-      <webElementGuid>fd7b71dc-8d67-470e-a371-de95582ddf60</webElementGuid>
+      <webElementGuid>07cbea7b-51f7-4e1b-af36-a74c7e13d4b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/h2[2]</value>
-      <webElementGuid>49971dc8-8107-48bb-9474-cd198904fd7b</webElementGuid>
+      <webElementGuid>bcc37397-3ddd-4362-9d1d-b3f01c476bda</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/h2[2]</value>
-      <webElementGuid>6b7f00f0-7c15-49da-8a33-2aa99b53e146</webElementGuid>
+      <webElementGuid>91775e9e-1a5e-4316-9b89-b5546468428e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Successfully change password, please login via app.']/parent::*</value>
-      <webElementGuid>82fb6d9e-7a26-4d49-b107-42fb744095a4</webElementGuid>
+      <webElementGuid>90c5bfbf-11b0-47ec-be1d-70cc1f95595f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2[2]</value>
-      <webElementGuid>bd5eed7e-f372-4a85-9cf3-8250200607fb</webElementGuid>
+      <webElementGuid>59ae7ebd-c523-4992-aed9-a798b214914f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Successfully change password, please login via app.' or . = 'Successfully change password, please login via app.')]</value>
-      <webElementGuid>b8b892ed-bd8c-4f01-a60b-85ce41bea420</webElementGuid>
+      <webElementGuid>131155ca-f639-4b36-a9fc-375374b40c68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>d6332e38-877e-4373-bad9-6bdab5518afd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@name='approve']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button[name=&quot;approve&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='approve']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d8c722f5-422a-4919-b544-84a934db0f1c</webElementGuid>
+      <webElementGuid>4e86d9e9-5985-41f7-9a6e-3f80dd6e2dcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a5ffa441-3abb-4a9d-ac2a-ae8b45be8174</webElementGuid>
+      <webElementGuid>3a0be8d8-5b3a-42c0-bec1-0ca76815bf37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>approve</value>
-      <webElementGuid>041f7361-7860-44ff-b630-297e9c9dd8f2</webElementGuid>
+      <webElementGuid>e55e011e-2625-4758-ba13-94354dad1bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>62530331-836b-404a-9762-ac3949e98555</webElementGuid>
+      <webElementGuid>c57a7ead-03b5-47b3-8158-134a78397077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approve</value>
-      <webElementGuid>fc3a1ad4-5528-4437-9602-6d4b5591b0a9</webElementGuid>
+      <webElementGuid>62d82f6f-5db2-4c3c-a68e-0a485fb569bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>e5ebc770-31e5-4336-8385-594db6e513e9</webElementGuid>
+      <webElementGuid>8e3ab076-9b8f-4b7c-8b87-a1bff5757176</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='approve']</value>
-      <webElementGuid>bf52afc1-1a1f-4510-8a95-45e6f7a246c2</webElementGuid>
+      <webElementGuid>7444d310-5a56-4f5a-99ed-aafba9c9c925</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div[3]/button</value>
-      <webElementGuid>948a9715-3402-41e9-872f-3adb0feee228</webElementGuid>
+      <webElementGuid>3074944b-4cc8-48d5-80c5-07f7772ae073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialized Area :'])[1]/following::button[1]</value>
-      <webElementGuid>d214ca5c-092a-49bc-8b1c-059f9e8bf585</webElementGuid>
+      <webElementGuid>b0a5a433-da40-46c1-8cc7-4b2753d20b5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialized State :'])[1]/following::button[1]</value>
-      <webElementGuid>dba656eb-b19d-42e1-adf5-ea4a1272f79c</webElementGuid>
+      <webElementGuid>1a29ae71-bab8-44a8-ac8c-fc452ceea65f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::button[1]</value>
-      <webElementGuid>75a75d32-e8b1-4f3f-bb9d-3fa11271d536</webElementGuid>
+      <webElementGuid>5035a3b7-2cb0-4c84-934e-7f808968d974</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[2]</value>
-      <webElementGuid>432348d2-e035-45ab-bc75-df066821dab6</webElementGuid>
+      <webElementGuid>b94d6bd3-151d-47dc-9435-423b53c06887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
-      <webElementGuid>23704a89-a542-4bd6-82c4-d86ee08ed79a</webElementGuid>
+      <webElementGuid>93bafc8c-7b74-4cc0-af5c-1de1bae26a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>829a8d8a-7ff1-4408-8a1a-688bd37de517</webElementGuid>
+      <webElementGuid>da7474ed-d7ac-4bd4-8e20-52e6dc08a275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @name = 'approve' and (text() = 'Approve' or . = 'Approve')]</value>
-      <webElementGuid>866a1a5e-77f7-410d-941a-0580ebe6d501</webElementGuid>
+      <webElementGuid>270ec7a0-14b8-47d1-96f1-b374cf60824d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>55766ed1-6b15-45d8-a1e9-fdd1134bc975</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td[6]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>5785d9be-401d-4ab6-809d-e88c85c1f211</webElementGuid>
+      <webElementGuid>2b62a2a4-719e-4523-9d8c-c878ec4cc29b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>data-heading</name>
       <type>Main</type>
       <value>Created</value>
-      <webElementGuid>3a32e304-e217-4050-bc95-9611c7dd4ea1</webElementGuid>
+      <webElementGuid>c4f3485d-d081-44a3-8ba3-ecf643a27766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>12/29/2022</value>
-      <webElementGuid>38415583-3c39-4173-aff1-9d0ade64479e</webElementGuid>
+      <webElementGuid>2a153ab9-d2f7-473c-9809-c02c6ede535f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;table-container__table table-container__table--break-md&quot;]/tbody[1]/tr[1]/td[6]</value>
-      <webElementGuid>9708df18-1b7b-4ea6-9df8-f0813703daf8</webElementGuid>
+      <webElementGuid>4fabfb69-bc42-459e-9720-57b87753747b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div/div[8]/div/div/table/tbody/tr/td[6]</value>
-      <webElementGuid>339be712-ad2f-42dc-8318-b6fd78240d6f</webElementGuid>
+      <webElementGuid>623d9dd8-cbf3-4c43-bfc0-bca1741bdad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kick Starter Pack (Free)'])[1]/following::td[1]</value>
-      <webElementGuid>be8f2b1c-2dcc-40f0-bd6b-31bdb9fd48af</webElementGuid>
+      <webElementGuid>95905f3f-963d-4b87-810e-4175ad3d8871</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='testernext6@outlook.com'])[1]/following::td[2]</value>
-      <webElementGuid>08c1bda3-0d5d-46c0-b54b-875cef3563b2</webElementGuid>
+      <webElementGuid>61e6b177-e7e0-4c50-ba2e-fb8305f65cea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/preceding::td[1]</value>
-      <webElementGuid>5fb8d598-966f-4eab-9a02-e7f725ea8eb8</webElementGuid>
+      <webElementGuid>38d10310-aeb5-481f-8058-d51287353519</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::td[2]</value>
-      <webElementGuid>d3f4a69b-cbcb-4be2-a953-3cba7fc21480</webElementGuid>
+      <webElementGuid>572f3d5d-5632-4f85-a193-30ac38c2beb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='12/29/2022']/parent::*</value>
-      <webElementGuid>3233fff5-b0fe-484b-be8b-9d67722662e5</webElementGuid>
+      <webElementGuid>c3d25af1-4073-4ad7-b74a-4bcc8c5eb694</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]</value>
-      <webElementGuid>997cacab-c369-4544-9272-94fbbdc527d3</webElementGuid>
+      <webElementGuid>5fa7fa15-bc29-45ee-a818-be78780616e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '12/29/2022' or . = '12/29/2022')]</value>
-      <webElementGuid>1fd292d6-6f42-43a6-9408-1ece62da4022</webElementGuid>
+      <webElementGuid>60ef154a-b57b-489c-9b5c-fce567561537</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

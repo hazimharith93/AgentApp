@@ -79,4 +79,174 @@
       <initValue>''</initValue>
       <name>agentApplicationProcessedOn</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Generate random password for forget password Public Agent</description>
+      <initValue>''</initValue>
+      <name>randomInt</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent online/offline status</description>
+      <initValue>''</initValue>
+      <name>status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>packageName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>packageActiveListing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>packageImageAllowed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>totalActiveProperty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>totalInactiveProperty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>plottedAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>totalMessage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>totalAppointment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>public agent dashboard</description>
+      <initValue>''</initValue>
+      <name>totalGuidance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyAddressArea</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyAddressState</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyPrice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyBed</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyBath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyCarPark</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyBuildUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyUpdated</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyCreated</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyAddress1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyPostcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyHighlight</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyCategoryListing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyTenure</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyFurnishing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyDirection</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyOccupied</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyUnitType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>propertyFacilities0</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>property detail list -sale</description>
+      <initValue>''</initValue>
+      <name>memo</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
