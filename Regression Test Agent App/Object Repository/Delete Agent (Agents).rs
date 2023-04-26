@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>AdminURL</name>
+   <name>Delete Agent (Agents)</name>
    <tag></tag>
-   <elementGuidId>4a49b797-a1d3-4ed1-a385-1d15bc5d0998</elementGuidId>
+   <elementGuidId>193a7bb3-935e-495a-835b-b35931a49c17</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;_id\&quot;:\&quot;636215f7a6d109004a5d88d7\&quot;,\n    \&quot;active\&quot;:true,\n    \&quot;banner\&quot;:\&quot;https://iprofstore.blob.core.windows.net/iklan/636215f7a6d109004a5d88d7/iklan.png\&quot;,\n    \&quot;campaignURL\&quot;:\&quot;${CURL}\&quot;,\n    \&quot;category\&quot;:\&quot;Mobile Banner\&quot;,\n    \&quot;created\&quot;:\&quot;2022-11-02T07:02:15.245Z\&quot;,\n    \&quot;type\&quot;:\&quot;Campaign\&quot;,\n    \&quot;sequence\&quot;:1\n}&quot;,
+  &quot;text&quot;: &quot;{\n      \&quot;dataSource\&quot;: \&quot;ClusterSIT\&quot;,\n      \&quot;database\&quot;: \&quot;trrappdb\&quot;,\n      \&quot;collection\&quot;: \&quot;agents\&quot;,\n      \&quot;filter\&quot;:{\n        \&quot;email\&quot;:\&quot;testernext6@outlook.com\&quot;}\n      }&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -21,13 +21,21 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>a52b2ac1-1180-4615-aff1-7e6f2a5fe43d</webElementGuid>
+      <webElementGuid>7da89c03-56a6-44dc-b0a4-4ff886e6768f</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>api-key</name>
+      <type>Main</type>
+      <value>AKAFnW5WgyyOq3F3S2lVPcRhZr12qxZTTPjz0Llu1myg9jUSNjaVaGih51BZ8n60</value>
+      <webElementGuid>df434f51-7b9e-479b-ac1e-03ddcdeb958f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.4.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://sit-host.nextsix.com/iklan/update</restUrl>
+   <restUrl>https://data.mongodb-api.com/app/data-nnnyp/endpoint/data/beta/action/deleteOne</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -36,13 +44,6 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <variables>
-      <defaultValue>GlobalVariable.URL</defaultValue>
-      <description></description>
-      <id>1ec05dfb-5a50-4ba2-be33-209d16cd07d5</id>
-      <masked>false</masked>
-      <name>CURL</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
@@ -55,10 +56,6 @@ import internal.GlobalVariable as GlobalVariable
 
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
-ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
-WS.verifyElementPropertyValue(response, 'campaignURL', &quot;&quot;)
-
-
-</verificationScript>
+ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
