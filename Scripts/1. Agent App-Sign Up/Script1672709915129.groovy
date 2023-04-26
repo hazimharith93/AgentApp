@@ -104,7 +104,6 @@ def fakename = result.address.Full_Name
 def fakephone = result.address.Telephone
 
 
-
 Pattern regexPat = Pattern.compile('.{0,11}$')
 
 Matcher mat = regexPat.matcher(fakephone)
